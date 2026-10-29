@@ -1,0 +1,5897 @@
+[
+ {
+  "identity": "GSTampk6BJRKSDkzhaMM49R7qRx98MTPYYWvKbp83XKc",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 2502415.693398342,
+  "skip_rate": 0.17162471395881,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9XhmwxwWtoR6oD4xpSHutoTXku8hXyq76XoTKFZb7ct7",
+  "version": "4.3.2",
+  "name": "Fly to the Moon Validator",
+  "activated_stake": 152693.04094752402,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9dH6wfdJVgnDcbCUjT8rkmejAzTnGQaFarmLfvBYXANK",
+  "version": "4.3.2",
+  "name": "4CRYPTO",
+  "activated_stake": 109340.485226277,
+  "skip_rate": 4.4117647058824,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "SFundNVpuWk89g211WKUZGkuu4BsKSp7PbnmRsPZLos",
+  "version": "26.10.4",
+  "name": "Staking Fund",
+  "activated_stake": 181696.94314076702,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "SSmBEooM7RkmyuXxuKgAhTvhQZ36Z3G2WsmLGJKoQLY",
+  "version": "26.10.4",
+  "name": "SOL Strategies",
+  "activated_stake": 303669.652594504,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2dxz129YxB1xtf7Mx6HUT5JspexArNNtQt84FYueWZV7",
+  "version": "4.3.2",
+  "name": "NeNa \ud83c\udf3b",
+  "activated_stake": 82751.539711897,
+  "skip_rate": 5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Fudp7uPDYNYQRxoq1Q4JiwJnzyxhVz37bGqRki3PBzS",
+  "version": "4.3.2",
+  "name": "huglester",
+  "activated_stake": 235259.080851169,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "yJeahQNRHNWtL9Z1SqPX3SBwTYXr5ECMYYVK4uYVwxt",
+  "version": "4.3.2",
+  "name": "Dosirak \ud83c\uddf0\ud83c\uddf7",
+  "activated_stake": 161947.80641283302,
+  "skip_rate": 3.8461538461538,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "ACvL73V4GNnxPVfZ7K89jCrYurLyzpEuE9qirjvh2Xmi",
+  "version": "4.3.2",
+  "name": "Kiln2",
+  "activated_stake": 1065055.877381124,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5t4shVsKnUqgjmhK3fFNsvyju2E6Rd7cc4S5pmqqEVEW",
+  "version": "4.3.2",
+  "name": "SteakStache",
+  "activated_stake": 53166.82874135,
+  "skip_rate": 5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "juigBT2qetpYpf1iwgjaiWTjryKkY3uUTVAnRFKkqY6",
+  "version": "26.10.4",
+  "name": "ProStaking",
+  "activated_stake": 359149.782217146,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "vnd1Ps8w3fsi54qUMJxBhUWARES34Qw7JQXDZxvbysd",
+  "version": "4.3.2",
+  "name": "Vandal",
+  "activated_stake": 56868.85254713,
+  "skip_rate": 7.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CjmXSapt1ouz3CZzgkRJckBEwMSo5fVdVrizLeRscwYD",
+  "version": "4.3.2",
+  "name": "Mad Lads",
+  "activated_stake": 130100.57236293901,
+  "skip_rate": 3.125,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CVvaeDPR2o7P1eawG5c9TPFLzSXAewwPovPmREaEL4Cm",
+  "version": "4.3.2",
+  "name": "Lion3d | 0% Forever + Block Rewards Sharing",
+  "activated_stake": 390467.28349459,
+  "skip_rate": 0.84269662921348,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3s97yjq2MhoPVPC3U9VeE3Z5S643Pweovg88ysvrQPw5",
+  "version": "4.3.2",
+  "name": "Starke Finance",
+  "activated_stake": 207296.78669357902,
+  "skip_rate": 1.8292682926829,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "LiFiDJwJjW98MB8wxcnXpafKYsuz1hwpUkuszkERiX6",
+  "version": "4.3.2",
+  "name": "LI.FI",
+  "activated_stake": 105503.22979265601,
+  "skip_rate": 8.3333333333333,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "eyeYaqg9e2L6xw7YwsSLm27eWJfhLNAm6ETQm8TXNoK",
+  "version": "4.3.2",
+  "name": "Eyenotion",
+  "activated_stake": 110846.73183209701,
+  "skip_rate": 5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Awes4Tr6TX8JDzEhCZY2QVNimT6iD1zWHzf1vNyGvpLM",
+  "version": "26.10.4",
+  "name": "Staking Facilities | MEV \ud83d\udd25",
+  "activated_stake": 7003144.982092444,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5d9Mdc2Zk8as8GL1AxQeXxv5htBBvC5bjfmsXC7UUWwG",
+  "version": "4.3.2",
+  "name": "Maera",
+  "activated_stake": 361490.01040238905,
+  "skip_rate": 1.4705882352941,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7y5VhV4fkz6r4zUmH2UiwPjLwXzPL1PcV28or5NWkWRL",
+  "version": "4.3.2",
+  "name": "Haus \u2013 Best APY & No Fees",
+  "activated_stake": 1340371.073158893,
+  "skip_rate": 0.33185840707965,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "capyS1jerxhFp1RehdWRG6kbWi8bnWF3fkEG2RGLsQf",
+  "version": "4.3.2",
+  "name": "capy",
+  "activated_stake": 165980.24478135302,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "GQzMeEMwAR44ugoNCifTb5NdRKos1GduDUPeNh6AgV46",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 2502395.5555721773,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "pSo1KZXgG1EGHch6pPmscfYhv3buXyaj2dR8WkVnkfc",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 1608462.8521043612,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BkoS26vBuaXnSowACdChi4WKid8UwmuPNhEJWa8KsLHd",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 1143919.739954512,
+  "skip_rate": 0.36764705882353,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "idCE5k2BtTpwXdwAC7Var1enT9reut9fWECcxQP7LY7",
+  "version": "26.10.4",
+  "name": "\ud83d\udd25\ud83d\udc83\ud83c\uddf8\ud83c\uddec CeriumXYZ",
+  "activated_stake": 210118.63999416202,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HSDTxfgrqY8ZK88Q5Fx2DdX7zxMDqXgxJKgErTBSLoQJ",
+  "version": "4.3.2",
+  "name": "SOL Prime",
+  "activated_stake": 1425691.85705779,
+  "skip_rate": 0.30120481927711,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Diman2GphWLwECE3swjrAEAJniezpYLxK1edUydiDZau",
+  "version": "4.3.2",
+  "name": "diman",
+  "activated_stake": 345790.72410778,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "bay3wXfJsu9ds1zQBoQQ4DUwFGs3NP6q4gca9WM5G1z",
+  "version": "4.3.2",
+  "name": "Bay3",
+  "activated_stake": 112507.44509958301,
+  "skip_rate": 4.4117647058824,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "DP9iBgK9c7tJYb83KhxQMFNc1LXYu7nE7EhWpEzQnjmg",
+  "version": "4.3.2",
+  "name": "Sec3",
+  "activated_stake": 108196.287978822,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Atom7LRkdXj6MBoWJPgjaetrCMrgB9nnkQBYXTWE8Z3S",
+  "version": "4.3.2",
+  "name": "Quantum Crypto",
+  "activated_stake": 23872.597707378,
+  "skip_rate": 15,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2uxEHizFmmnLekKG2LZJwxNabhpymEYfdVCpgDxjt87m",
+  "version": "4.3.2",
+  "name": "\ud83c\udf40PADDY - \ud83d\udcb0JITO-BAM",
+  "activated_stake": 93505.017390932,
+  "skip_rate": 5.3571428571429,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Hz5aLvpKScNWoe9YZWxBLrQA3qzHJivBGtfciMekk8m5",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 3948471.5234890454,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "87CcUxpyR72ZyfaZirj86mqkbk5uuU2EfnwTegVMLJL5",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 3832139.436460256,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BSVckjdW2f8kcXPGcrPPtV9kUDBZ8w8PjrrGVnxgEdwq",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 2502391.14187419,
+  "skip_rate": 0.16930022573363,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "DnQBmTJyLbBMgJYQLJDqJz25AJModNkyexL5LdVRGnG4",
+  "version": "4.3.2",
+  "name": "Tane",
+  "activated_stake": 221546.70831648502,
+  "skip_rate": 1.6666666666667,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "E1r4Psq84tHfQ6aPTvvDka4U3u8zPVD7gEUrH25RdxHL",
+  "version": "4.3.2",
+  "name": "Bitwise Onchain Solutions",
+  "activated_stake": 10882510.649488417,
+  "skip_rate": 0.07473841554559,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "FdH9QEQBxPQfaF2JpcjgdfcMnDb7rjZkCDRCWLRjTQwj",
+  "version": "4.3.2",
+  "name": "Solana Ukraine \ud83c\uddfa\ud83c\udde6",
+  "activated_stake": 65029.720739462005,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "LFGGGJtnBLvq78DyMz1gTeedM6f8owck76qHThDABBC",
+  "version": "4.3.2",
+  "name": "Alpha Waves",
+  "activated_stake": 55629.035033960005,
+  "skip_rate": 8.3333333333333,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "ALp2GdA1eJV8vZHMHazCtTxNXe3BLUSco9LDASgjDs8R",
+  "version": "26.10.4",
+  "name": "\ud83c\udf38 SOLGirl MEV \u26a1\ufe0f\ud83d\udc69\u200d\ud83d\udcbb",
+  "activated_stake": 537610.140827325,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "ppppoqHcHVzigV6SK4856BAsNxhTAi32hqQQWrziyHE",
+  "version": "4.3.2",
+  "name": "Pesky Penguins \ud83d\udd25\ud83d\udc83 NOOT NOOT",
+  "activated_stake": 144097.885978989,
+  "skip_rate": 4.6875,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BeSovDCzhEAfgwDyXBuhmCFKsu5WQ3PaX61GEfteNzXM",
+  "version": "4.3.2",
+  "name": "Yonta Labs - LST 0%Fee MEV -",
+  "activated_stake": 217465.897124843,
+  "skip_rate": 2.5862068965517,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "AmhQFcGvH2hjkucP78rn6GMKSbstYwyFpCDVKZUwBGrG",
+  "version": "4.3.2",
+  "name": "myhauz",
+  "activated_stake": 193748.18842387001,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BPKAfGkkzF5u1QRjjB1nWYYbPMUCMPJe1xZPmwEMNMCT",
+  "version": "4.3.2",
+  "name": "GateOmega | SolCircl.app",
+  "activated_stake": 175300.793127976,
+  "skip_rate": 3.4090909090909,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "scs1NCSTafrUX6RBx113B9YDCepo1QdEzU8WwEkf25i",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 58752.740961436,
+  "skip_rate": 9.0909090909091,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "vxida39xd7rX96zC4deP9gBteuRXhp9BbioHCrqC8gp",
+  "version": "4.3.2",
+  "name": "Vortex",
+  "activated_stake": 49468.020457144004,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BoNKmNCGvoHS4CkKvYRnF21iEpUP827pZjhFGdA4t5as",
+  "version": "4.3.2",
+  "name": "BONK",
+  "activated_stake": 260258.12952605,
+  "skip_rate": 1.7441860465116,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "D1A4F2yh38JLQExKjDiCi4G2tCMwj93c3sikseSSePKe",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 70229.088817397,
+  "skip_rate": 10.294117647059,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "pineXRUnbaLNFMxaM3zBmFfTiKgQMGqT9jYHXZWq2Fw",
+  "version": "4.3.2",
+  "name": "Pine Analytics",
+  "activated_stake": 67158.441209044,
+  "skip_rate": 8.3333333333333,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HW4zorvt6xDwhU36RqjcWNwU8YMj9tiqnAafBKW4cqV",
+  "version": "26.10.4",
+  "name": "Moise",
+  "activated_stake": 474456.59546158405,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BEsnodYCgiGB6MjzxGJoVM6iNhyM3ndEfNuSd7fRHUTG",
+  "version": "26.10.4",
+  "name": "Temporal Opal",
+  "activated_stake": 338322.541764389,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "AHNX2YiD8Sb36yLA7bjx1bNs4jqCdDt3KKrwMZJMVedb",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 232061.82805112,
+  "skip_rate": 2.34375,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3x9nibnhgBHWKMRiGnsXJELRBjviQpKyigfrXtKW27KJ",
+  "version": "4.3.2",
+  "name": "Staking Kiwi",
+  "activated_stake": 90898.41780659,
+  "skip_rate": 3.75,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5VrW7YNBccVnhnZVmooCePdLFcs2UjfxRT3hoY9mN8Ec",
+  "version": "4.3.2",
+  "name": "Appleyello",
+  "activated_stake": 320686.214398232,
+  "skip_rate": 2.34375,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5zuNci3TV79w6zLoJZzbZujMvkVZb2FcSPhgv9aT24AK",
+  "version": "4.3.2",
+  "name": "Solana Japan Validator\ud83c\uddef\ud83c\uddf5",
+  "activated_stake": 180784.541386963,
+  "skip_rate": 2.34375,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "KAoSp3EudGqUBXv46tQoDwbZxSm3iXa9wM2aF4ySbJJ",
+  "version": "4.3.2",
+  "name": "Aepalizage",
+  "activated_stake": 81420.940665983,
+  "skip_rate": 10.714285714286,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7Nu9ckgtjobZ3MkbadGFKEvRymYuah9HmcxiUJKMM9NB",
+  "version": "4.3.2",
+  "name": "SoLyrae",
+  "activated_stake": 126237.809448935,
+  "skip_rate": 5.8333333333333,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7cVfgArCheMR6Cs4t6vz5rfnqd56vZq4ndaBrY5xkxXy",
+  "version": "4.3.2",
+  "name": "Blockdaemon \ud83e\uddf1\ud83d\udc7f Validator",
+  "activated_stake": 1187036.99330379,
+  "skip_rate": 0.34562211981567,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "version": "4.3.2",
+  "name": "Helius",
+  "activated_stake": 16022777.902436493,
+  "skip_rate": 0.034831069313828,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HnrXmm65CyvmSyvwEMjmyHzYjAyhHiHEJ7s1pf6BxTYA",
+  "version": "26.10.4",
+  "name": "Sol Val - 0% Fee/MEV | 50% Block Rewards Shared",
+  "activated_stake": 467893.081945899,
+  "skip_rate": 1.0135135135135,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5ejbTALcBsKQ7Cj1iSuu2mY5jqbYHqh9gF5ERXLiYj1z",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 2502415.6804894772,
+  "skip_rate": 0.15090543259557,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "N43JWBg42ZoUFMkHsRUVbP7wGVdxaHKanqaF9BBNiFC",
+  "version": "4.3.2",
+  "name": "Quantix",
+  "activated_stake": 94753.55949272901,
+  "skip_rate": 5.7692307692308,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "71F3mXrwguQ7euZkJAuSZ8o8N4EDAVnTsjMpffXEhaPy",
+  "version": "4.3.2",
+  "name": "Solopia",
+  "activated_stake": 49468.044671068004,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2Le6TjeEescF87qDA8Ftdz6U8Kq6SNVwoLJLhzBCHUr5",
+  "version": "4.3.2",
+  "name": "U1S1 Validator \ud83d\ude80 Performant, Secure and NO Fees",
+  "activated_stake": 20434.748434687,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "hy1oMaD3ViyJ8i6w1xjP79zAWBBaRd1zWdTW8zYXnwu",
+  "version": "4.3.2",
+  "name": "Hylo",
+  "activated_stake": 471424.90630996804,
+  "skip_rate": 0.98684210526316,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "gotasRuLTuJNZDtLHmaDJpEUjCWZqkHcuwbLhkgCwCX",
+  "version": "4.3.2",
+  "name": "Gotas",
+  "activated_stake": 130499.81142190401,
+  "skip_rate": 2.6785714285714,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "phz1CRbEsCtFCh2Ro5tjyu588VU1WPMwW9BJS9yFNn2",
+  "version": "4.3.2",
+  "name": "YIELD",
+  "activated_stake": 120973.92700135501,
+  "skip_rate": 3.9473684210526,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "EdFUcP2f6j9iBg5BqsgJn3WDr1JieiKCo41hZ5Zrsk6w",
+  "version": "4.3.2",
+  "name": "Bitget Wallet",
+  "activated_stake": 557163.564353892,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "ABREU5YkQcfpDZymoQ97iGUgQcfgjctWUUxEMfumiPdV",
+  "version": "4.3.2",
+  "name": "ABREU Foundation",
+  "activated_stake": 80008.717281702,
+  "skip_rate": 11.111111111111,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "D1Vbgkrhp1TmLGhfUD1urRMx5Ntz9AqQpgdX8DR8QMC1",
+  "version": "4.3.2",
+  "name": "Next Finance Tech",
+  "activated_stake": 327588.58545308904,
+  "skip_rate": 1.3392857142857,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "PRGNnb8DxVcP2WjSHfVRGgc8SkA5u6dbMwoTVV1BGKN",
+  "version": "26.10.4",
+  "name": "Paragon",
+  "activated_stake": 303660.232456138,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "TopjgY7N1fJdnW89S9fX6t7LF61nspgXGL1NpgAKhDG",
+  "version": "26.10.4",
+  "name": "TopReward - 0% fee and mev, top APY!",
+  "activated_stake": 81446.129398491,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "omeg2wsojzB7tfyAxsFhp8npxHL8yxVnaf51poXCwSd",
+  "version": "4.3.2",
+  "name": "OmegaNode Validator",
+  "activated_stake": 109928.40248631801,
+  "skip_rate": 3.125,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "H9ENbtmy2tWFtAJNmpC8xQtbcr1NTp4FXLdphRaG8L2T",
+  "version": "4.3.2",
+  "name": "Bubbles",
+  "activated_stake": 201764.238346833,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BCJN2vZFAHDYmufBDcbD5UAQHSyerXfc6UQkgX3mSWuh",
+  "version": "4.3.2",
+  "name": "TomYum",
+  "activated_stake": 96290.35712210601,
+  "skip_rate": 7.6923076923077,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9D3o3EYeknhTrRvXS1PnD2euGXnMFa3HwpYBq5gPZJDA",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 37044.509195672,
+  "skip_rate": 16.666666666667,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "Xoir1BnQX9TbEvon9HRbD8tkjcD9dorsxmNjZAV64Re",
+  "version": "4.3.2",
+  "name": "YYDS Validator \ud83d\ude80 Performant, Secure and NO Fees",
+  "activated_stake": 10274.279935629,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Hj2jzpAp57KyM3SmnYwJbDVrQ8tTWizMon2hhzYzwxet",
+  "version": "4.3.2",
+  "name": "A Unicorn Julia",
+  "activated_stake": 196793.063308464,
+  "skip_rate": 2.8846153846154,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CTDGxTK789ZvhgyHZHtSnxTtysbyY1mrywXEJiYYqXxC",
+  "version": "4.3.2",
+  "name": "Cointelegraph Decentralization Guardians",
+  "activated_stake": 50425.158534003,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "nateKhsYkrVc992UuTfAhEEFQqr2zQfpGg9RafNkxdC",
+  "version": "4.3.2",
+  "name": "Epoch.Day",
+  "activated_stake": 59521.236369804006,
+  "skip_rate": 5.7692307692308,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5ysfTZ42VT1TjnjzQShZSrix7wdVtjXwssocSeYKDs5d",
+  "version": "4.3.2",
+  "name": "LEVMA - 0% fee",
+  "activated_stake": 129747.109970178,
+  "skip_rate": 2.8846153846154,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "AiBEt9kE8yZ4CnaLfTCGMp7Fg2wCtqhPTfvJ8D3zrLfu",
+  "version": "4.3.2",
+  "name": "nodtech",
+  "activated_stake": 155983.484783108,
+  "skip_rate": 3.7037037037037,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Frog1Fks1AVN8ywFH3HTFeYojq6LQqoEPzgQFx2Kz5Ch",
+  "version": "4.3.2",
+  "name": "Leapfrog Systems \ud83d\udc8e No Fees",
+  "activated_stake": 615211.451506163,
+  "skip_rate": 0.625,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "76rcGHdPvgs8G1XrzCXUTWtwgT59AFDvpB4VbTS2TBBJ",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 2502383.46042285,
+  "skip_rate": 0.18610421836228,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "8tjFeSApQ85ThoQXT28acfF2KUfQr3TvTdirSkzNnYC7",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 1009498.9272842371,
+  "skip_rate": 0.41666666666667,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "vau1tt35joNg4WcuxxUfnojMg35kBmaLdiq5fcbfCZK",
+  "version": "4.3.2",
+  "name": "The Vault Research Validator",
+  "activated_stake": 69281.073062377,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "6WgdYhhGE53WrZ7ywJA15hBVkw7CRbQ8yDBBTwmBtAHN",
+  "version": "4.3.2",
+  "name": "Luganodes",
+  "activated_stake": 2216420.79565333,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BULKzVM41WAyQZfL34vxqdsYwEYH9mJAJyzRS4xraf8b",
+  "version": "4.3.2",
+  "name": "BULK",
+  "activated_stake": 272026.36965599103,
+  "skip_rate": 3.2407407407407,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5yEnvhM4Ld3UZs2n173J2iR369E1ddcbQYeLSZxk4cYj",
+  "version": "4.3.2",
+  "name": "Dan's Validator",
+  "activated_stake": 14326.118553001,
+  "skip_rate": 37.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "AfZTWYoFQbzqCMmUBTD7XwxFvjob1FVyCvkaXRryxtKc",
+  "version": "4.3.2",
+  "name": "Digital Energy",
+  "activated_stake": 292583.553845899,
+  "skip_rate": 1.9607843137255,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "EKgSCR3ahdypkxXcBY43ZNxdmyZqPkKNPey3rwKjqbz7",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 22154.790675030003,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "AwcMVMvmT1aCETVYV42WE1cSMCyNp4vZqVjLsvs6dM4o",
+  "version": "4.3.2",
+  "name": "Beachside",
+  "activated_stake": 198778.49715092,
+  "skip_rate": 5.1470588235294,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "SLAY6uN1zZpXBTfbuDDCesNmM5D288xrz8uYvfS3n41",
+  "version": "4.3.2",
+  "name": "Solayer Validator [5% Commission + 100% MEV Kickback]",
+  "activated_stake": 135547.124812732,
+  "skip_rate": 4.1666666666667,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "adre1Xia7ekGsEqNgHeFc7MYwkfzTQNeJgQmZ2agAKZ",
+  "version": "4.3.2",
+  "name": "Systems",
+  "activated_stake": 59112.733290846,
+  "skip_rate": 5.5555555555556,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "mD1afZhSisoXfJLT8nYwSFANqjr1KPoDUEpYTEfFX1e",
+  "version": "4.3.2",
+  "name": "Block Parliament \ud83e\udd89",
+  "activated_stake": 259950.22009716003,
+  "skip_rate": 1.875,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "parafiUS6h6oLhCFwhjvEmQJKw8pF1iXsxMJdTq46dS",
+  "version": "4.3.2",
+  "name": "ParaFi Technologies",
+  "activated_stake": 164360.711485134,
+  "skip_rate": 3.2608695652174,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CeJjdkRwfqYjrb7ZgKgqTurxx88H6kZyRadJwNJBcQwC",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 112095.14056198101,
+  "skip_rate": 4.1666666666667,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9U4WqNGVywKt3gG9HSt9tGVXBDXJvgid6BVweRysaJmg",
+  "version": "4.3.2",
+  "name": "6hTLQ5HSdWcpZkbXmZxXaGjCgTh7zh8UeWKWKgGE1BPp",
+  "activated_stake": 58278.022978337,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "EATpCzQNs8BzZh1mx1hXMAJm3o1MLXakTXr4UEmcsY7f",
+  "version": "4.3.2",
+  "name": "EAT TRIBE",
+  "activated_stake": 88106.649884442,
+  "skip_rate": 5.7692307692308,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+  "version": "26.10.4",
+  "name": "Firedancer Development",
+  "activated_stake": 1920191.649840747,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "FCWkGAHDWK41ANjiaoPudkCZRkvTecaEkoZQugezUnpr",
+  "version": "4.3.2",
+  "name": "maxfillipov",
+  "activated_stake": 187617.73672921702,
+  "skip_rate": 2.6315789473684,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5ZqveVffQPiUbkjBg4KD9kib1MKHLqiFno4ke9jSq9qk",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 4042325.8630905664,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Cogent51kHgGLHr7zpkpRjGYFXM57LgjHjDdqXd4ypdA",
+  "version": "4.3.2",
+  "name": "Cogent \u2699\ufe0f  by SOL Strategies",
+  "activated_stake": 503300.05382129306,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "FjYEr2UCeFzNfAKiFrbhG34Zv8LxbmfHYAFhAfc7SLQL",
+  "version": "4.3.2",
+  "name": "Easytoken.me",
+  "activated_stake": 132500.102774355,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3iSQtPgkZBqKVK1CNxcxZoKggAkWiDrE22cXeT38bKsE",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 800876.285675143,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2UBhtRuyr9nvWsUnrbWrvJiYWEU8TVBD4PLYQJKiRa9H",
+  "version": "4.3.2",
+  "name": "Luna Labs",
+  "activated_stake": 110627.739760608,
+  "skip_rate": 3.75,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "6yFGGAgYpBxgYPuHW4rv7hJmhKrUiXKyHkpVGaYtKrwE",
+  "version": "26.10.4",
+  "name": "Watchtower",
+  "activated_stake": 1192708.876068049,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "FbYX2uN573G5WsgiPdHU6fS5PNUyjdXfGfpZNkYUuT4k",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 2409417.943075628,
+  "skip_rate": 0.1875,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "GFXVa19rX6iwfs3sLS5UvX9Exu2usRsG4V5MRMDRo23V",
+  "version": "4.3.2",
+  "name": "GooseFX - 0% Fees",
+  "activated_stake": 163672.64835462102,
+  "skip_rate": 2.8846153846154,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HwN6eoEe9N3kwHi66hpQDBMFPk6ASQGthWKPX5MZmisp",
+  "version": "4.3.2",
+  "name": "Solya",
+  "activated_stake": 152709.824324662,
+  "skip_rate": 3.7037037037037,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "odcvDWH5wHVKz9XtmGGxTj5ZsmawTjCCty3nyBKDGzS",
+  "version": "4.3.2",
+  "name": "Odyssey",
+  "activated_stake": 108005.559993203,
+  "skip_rate": 4.7619047619048,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Av8EnYrPBnSJHK5e2wmTdnCpSy7nzmBgyFaUKSyLnBfe",
+  "version": "4.3.2",
+  "name": "AndrewInUA",
+  "activated_stake": 123984.68924727701,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "peNgUgnzs1jGogUPW8SThXMvzNpzKSNf3om78xVPAYx",
+  "version": "4.3.2",
+  "name": "PENGU Validator",
+  "activated_stake": 116205.14586499601,
+  "skip_rate": 3.9473684210526,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2DTXh3ruMU2SeWanqr4yeg5GR47V99Jq3wUdStQfda3V",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 1007863.5034694531,
+  "skip_rate": 0.42613636363636,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "722RdWmHC5TGXBjTejzNjbc8xEiduVDLqZvoUGz6Xzbp",
+  "version": "4.3.2",
+  "name": "Solflare",
+  "activated_stake": 1694051.944259647,
+  "skip_rate": 0.25083612040134,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2bpfa8JbFfZUGUsedDsemu6vQUxbhcEM8ALSH3PgXd2d",
+  "version": "4.3.0-rc.1",
+  "name": "EAC",
+  "activated_stake": 29948.084801123,
+  "skip_rate": 33.333333333333,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Ex1AxFCipXGfSxgvXPPT3nPQUARddCduHwKR6jHiXAaT",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 922095.664478051,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "avnujiRNoSRe9PcET42DPKznyfYnb2LRaZAsqv6REZo",
+  "version": "4.3.2",
+  "name": "AVNU",
+  "activated_stake": 136517.17057235402,
+  "skip_rate": 3.125,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "E3mDbFMr8yZcCAZx5wPUFCRmLX31u8Nnj4jPoPc54h3F",
+  "version": "4.3.2",
+  "name": "MAVAN",
+  "activated_stake": 887298.052617446,
+  "skip_rate": 0.59055118110236,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5429ouKuzSkH8TV5GULMLtqkEGnJ7H6RsfhDLyscqXoB",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 9708.844060187,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "MagiCBYNPD9iTBXqiFybAFCREQzG6MSM4LmFLXQZxuV",
+  "version": "4.3.2",
+  "name": "Magic Eden Validator",
+  "activated_stake": 152081.744223429,
+  "skip_rate": 2.7777777777778,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "gridqZmeBcsUKT2Mv4M9YFHFN3tVLFb2TCtTcLD1cAd",
+  "version": "4.3.2",
+  "name": "Grid Systems",
+  "activated_stake": 262993.83302918903,
+  "skip_rate": 1.4423076923077,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BLUEHGDihXD9CqqC5XFSQzDC3aS5jASohb2BAsXaJokR",
+  "version": "4.3.2",
+  "name": "Bluestone \ud83d\udc99",
+  "activated_stake": 62521.594329930005,
+  "skip_rate": 7.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "mastWEbKEMjvBCd1uaUBpNjWcfSPhXMWnH9tTrgzn1g",
+  "version": "4.3.2",
+  "name": "MAS DeFi",
+  "activated_stake": 112089.35852613,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "huinBRP3muBuqZLMW8ARjdn4mBnEmFFcxiBzrkQz553",
+  "version": "4.3.2",
+  "name": "Huisky Staking",
+  "activated_stake": 108985.49038519601,
+  "skip_rate": 4.6875,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2m1A2WM1vte7RWz5xTTw4i1SiXmngVtXhqFERaUjoAAb",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 2005488.249610397,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5P35CJVKU15Rrh5M6EVkre23EyA3K34kAut2GXhHKM7W",
+  "version": "4.3.0-rc.1",
+  "name": "",
+  "activated_stake": 24002.337691766003,
+  "skip_rate": 33.333333333333,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CVgwMrWo9chKEuEPCe6Za9KJe8jamnAcoeWzaMeNubr6",
+  "version": "4.3.2",
+  "name": "SelfLiquidity",
+  "activated_stake": 12553.419891853,
+  "skip_rate": 18.75,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BGAjnivVWqLqByqCVT9dSyPUFicvyJrz7vRvrvui3SEk",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 261141.46771218203,
+  "skip_rate": 1.4705882352941,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "PUmpKiNnSVAZ3w4KaFX6jKSjXUNHFShGkXbERo54xjb",
+  "version": "4.3.2",
+  "name": "Pumpkin's Pool \u2764\ufe0f",
+  "activated_stake": 1001801.7003838151,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "1i1yPyh843bTfi5qPgqozTbDcEX65rUNEFcUT2KAs2i",
+  "version": "4.3.2",
+  "name": "Lilith",
+  "activated_stake": 52118.338055493005,
+  "skip_rate": 12.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "A23LfQn6khffj2hGhGfXr6P52W2pxrVcCaHVQLYQgiX2",
+  "version": "4.3.2",
+  "name": "vladika",
+  "activated_stake": 151492.21622275302,
+  "skip_rate": 6.6666666666667,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "DUND26mEDfFeaPsVof3YvbXDRvpuQX7HMUJrLgEWzYw4",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 2499999.99217168,
+  "skip_rate": 0.16930022573363,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5Cchr1XGEg7dbBXByV5NY2ad8jfxAM7HA3x8D56rq9Ux",
+  "version": "4.3.2",
+  "name": "Upbit Staking",
+  "activated_stake": 5688479.581092335,
+  "skip_rate": 0.095057034220532,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "SaGAgdkowooXBrHihpmE8gsjf1dUG7n5SqnyJxYFnXJ",
+  "version": "4.3.2",
+  "name": "Saga DAO",
+  "activated_stake": 93309.55843321701,
+  "skip_rate": 5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CVGwNaC1FaG95hRBHUuieDLyQU2hJuGhPduu2cMyHnw6",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 56469.561983561005,
+  "skip_rate": 9.0909090909091,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "4QNekaDqrLmUENqkVhGCJrgHziPxkX9kridbKwunx9su",
+  "version": "4.3.2",
+  "name": "Stakeconomy \ud83d\ude80 Jito MEV + Triton.One",
+  "activated_stake": 170013.70669294102,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "A9mvukTd77EbRoBX4ydSCFQHdu5bsRFkNXTTRstA8FAC",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 1380783.4051091261,
+  "skip_rate": 0.32751091703057,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "sTEVErNNwF2qPnV6DuNPkWpEyCt4UU6k2Y3Hyn7WUFu",
+  "version": "4.3.2",
+  "name": "STEVE",
+  "activated_stake": 49587.054685024006,
+  "skip_rate": 7.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9FXD1NXrK6xFU8i4gLAgjj2iMEWTqJhSuQN8tQuDfm2e",
+  "version": "4.3.2",
+  "name": "Grassets Tech | Jito-BAM | IBRL",
+  "activated_stake": 191262.717239616,
+  "skip_rate": 1.9736842105263,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "ByszyWdqC3rVMWy8f6jwK5cmwkpwYdwsr7UL58xS5vnm",
+  "version": "4.3.2",
+  "name": "ILY\u2661 Validator \u2795 Firedancer\ud83d\udd25 ||neochibi culture X:@ILY_validator",
+  "activated_stake": 186576.596715357,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "mds3Df1ieBonG2qS8ZoKTqshq5MgTUNfZgc78cjiCdq",
+  "version": "4.5.0-alpha.2",
+  "name": "",
+  "activated_stake": 56821.356222032,
+  "skip_rate": 12.5,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "7qGNnXKW1e3DsqEaSxwxMdBTFsrK73XtWTmkGitRyMQc",
+  "version": "4.3.2",
+  "name": "Alchemy",
+  "activated_stake": 1842532.999490346,
+  "skip_rate": 0.17564402810304,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "THWsLPufeq9LWs2H9vYPbtFwdxAHbQHvSbT6pztG8x1",
+  "version": "4.3.2",
+  "name": "THW Validator",
+  "activated_stake": 188790.060863538,
+  "skip_rate": 1.8292682926829,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "DupN8puwoPdFo9EYm8AXemEn9cMsore1QmZzfPaxyUG4",
+  "version": "4.3.2",
+  "name": "Buffalo Steve",
+  "activated_stake": 80180.216842918,
+  "skip_rate": 3.9473684210526,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5tfcGyf3NQFcufDigvbRt9kWoVN2KPEkBRUY3UaC3Zwm",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 310401.36568921903,
+  "skip_rate": 1.3636363636364,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "GYx8kpp7SsRwtQEEsGQjAxb4hFMMmT91kFJuDeky3YGQ",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 1443865.0720408831,
+  "skip_rate": 0.40816326530612,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "ArMBx6veRq33ffEP9sxHafiPRgrtzww4XvbwZbSMfXiM",
+  "version": "4.3.2",
+  "name": "Luke",
+  "activated_stake": 79407.605961028,
+  "skip_rate": 4.4117647058824,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "GBQ2GvTzmjXMu97dr7WUnLKYTNim1aoZsYS53KYXAAAA",
+  "version": "4.3.2",
+  "name": "Bitwise Onchain Solutions | Jito BAM",
+  "activated_stake": 3008745.2514954563,
+  "skip_rate": 0.13940520446097,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HPJ2KUVgRnG889NyfEcUyZkGD1abrZxjZVmsYAjLZU1N",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 2375.678999739,
+  "skip_rate": 75,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "VQwCCSfW3o5NDx7n5FBr9SoYiLXVgetstHvaWBvv2YH",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 499787.66771798703,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BSGMRbK97DcgLe4u4kfNQnmTVZGVnwdtKQBJqWRBTZxU",
+  "version": "4.3.2",
+  "name": "Black Sea Gold",
+  "activated_stake": 145337.96905361602,
+  "skip_rate": 2.7777777777778,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "STaKesuXJH6UGRizuEVSWG1tyLu5ycKgWj3i1HUdvs5",
+  "version": "4.3.2",
+  "name": "Private",
+  "activated_stake": 17928.772622758002,
+  "skip_rate": 37.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3YX7PQuESmR2h95FDgjahEQjyCBhmY1Ts2MsrM1Kg9DS",
+  "version": "4.3.2",
+  "name": "Banana Business (BB)",
+  "activated_stake": 61670.080985828004,
+  "skip_rate": 12.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "R2D2imoV8nXk1ngT9v4dEK65We4uLNyUarTBdWbFruq",
+  "version": "26.10.4",
+  "name": "\ud83e\udd16 RoboRun.xyz",
+  "activated_stake": 120378.29866154301,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "GnC339vkyXRm1jRX69dt9mapPPu2LbzXfSDoxc91qta6",
+  "version": "4.3.2",
+  "name": "P2P.org",
+  "activated_stake": 4860226.782139947,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BbCQMWnfxo4eKTTTmBKuKYkbCDNf3ZpxtvwyN71ivCi4",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 399259.443088534,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "8pyp3vfVPRziYdAYEyqkwytdBbdVbQmHqfQAVDcRV3w",
+  "version": "4.3.2",
+  "name": "Rustiq Technology",
+  "activated_stake": 218777.39101034802,
+  "skip_rate": 1.9736842105263,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9WzPWqKSqbE5PT9hMsmCDFjzpurAXEYCE9qrpVWp28KR",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 352767.061399342,
+  "skip_rate": 2.7777777777778,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "EUcJwf7jXskRE6NZBtFPVH2EedNvNYko8LL2WT62XctB",
+  "version": "4.3.2",
+  "name": "StakeBowl",
+  "activated_stake": 1540008.088992886,
+  "skip_rate": 0.26041666666667,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "FyrwfMaomErzqrFUXMjCJ7mA4u81DsiDdrzC3MJD6d4j",
+  "version": "4.3.2",
+  "name": "1dad | Solfege",
+  "activated_stake": 331336.42553024803,
+  "skip_rate": 1.4705882352941,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BTGPbq4KuFENn4CKuaKGqkaDd3TJD3TEgtMjSrsZnMLb",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 219770.96873331102,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "PuRposE4utktenW49N8DCtVzdVEwYrmsrroboEUram4",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 308898.50472819404,
+  "skip_rate": 2.1276595744681,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "vALigXFg9wnnhVHN16vNxHxXtAXiBv5QjAE6udoniBY",
+  "version": "4.3.2",
+  "name": "Valigator Open",
+  "activated_stake": 233409.870721354,
+  "skip_rate": 2.4193548387097,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7tqeaFKsg2K9xKnQWe61w71AtCZVMQvG4hbFAiFAngYw",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 488299.361466803,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "GoeW4aFK4dGoekJySgUynWDxBZiQJqm8GDAF4H53tDK9",
+  "version": "4.3.2",
+  "name": "Twinstake",
+  "activated_stake": 2635374.8378993743,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "GwHH8ciFhR8vejWCqmg8FWZUCNtubPY2esALvy5tBvji",
+  "version": "4.3.2",
+  "name": "ART3MIS.CLOUD \u2618\ufe0f",
+  "activated_stake": 179954.684011256,
+  "skip_rate": 2.5862068965517,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "h3ZXAE168mNxsszYYrUfkMVSCWx6DU2Uvrx97Kb1Nch",
+  "version": "4.3.2",
+  "name": "Validation Cloud",
+  "activated_stake": 139836.409115855,
+  "skip_rate": 2.6785714285714,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "RAuSNo4DRjo83uGhdgg4fPqYBVszi1KsrQGpqcPHK1D",
+  "version": "4.3.2",
+  "name": "Hubra",
+  "activated_stake": 118072.459635706,
+  "skip_rate": 3.7037037037037,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "NATsUSZGohWw8xtLdxG4yus21UCkaes4FLfM2eqKbRk",
+  "version": "4.3.2",
+  "name": "Kisetsu Stake",
+  "activated_stake": 66919.00878739801,
+  "skip_rate": 7.6923076923077,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "FWwwP9tNttSy9dJFxwf6ebXWfc6VJXqFNMTccrMiLFTH",
+  "version": "4.3.2",
+  "name": "Quatro",
+  "activated_stake": 1147491.755511359,
+  "skip_rate": 0.33783783783784,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CMPSSdrTnRQBiBGTyFpdCc3VMNuLWYWaSkE8Zh5z6gbd",
+  "version": "4.3.2",
+  "name": "Solana Compass \ud83e\udded Solana For The People",
+  "activated_stake": 1418541.307949207,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CpNnGGhgVATJAbzHUXdrcGfpPiGuZyPka4QUmH7YgavX",
+  "version": "4.3.2",
+  "name": "DICS - Degen Infrastructure Core Services",
+  "activated_stake": 125930.992272695,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Ed9WjPnZfAXsPttcqxMwj94qsuXVRyBsyXnDkxFva2Zv",
+  "version": "4.3.2",
+  "name": "Rakurai | High TPS | High rewards",
+  "activated_stake": 208143.702792105,
+  "skip_rate": 1.7857142857143,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "6YY2VS44RP1sBosdEsvSaiw7gETDNx3tmg5mM5wHpTqM",
+  "version": "26.10.4",
+  "name": "Cavey Cool",
+  "activated_stake": 819162.500549686,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "6NDen7aDi65apHo8m1Vea4nuS6LyjQeM6pDNqcW4Q5Pg",
+  "version": "4.3.2",
+  "name": "0node.io",
+  "activated_stake": 125434.22150540701,
+  "skip_rate": 2.34375,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3B2mGaZoFwzAnWCoZ4EAKdps4FbYbDKQ48jo8u1XWynU",
+  "version": "4.3.2",
+  "name": "Low Fee Validation TOP API \ud83d\udd25",
+  "activated_stake": 190895.71817458502,
+  "skip_rate": 1.7441860465116,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9fa5wcqnAQqHyn58U1vHHLuZW5GXLcoho7hKT17jGJfZ",
+  "version": "4.3.2",
+  "name": "Cryptology",
+  "activated_stake": 11734.921974919002,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "AEHqTB2RtJjegsR2ePjvoJSm6AA5pnYKWVbcsn6kqTBD",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 2083334.2804383202,
+  "skip_rate": 0.18028846153846,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "RNXnAJV1DeBt6Lytjz4wYzvS3d6bhsfidS5Np4ovwZz",
+  "version": "26.10.4",
+  "name": "RockawayX Firedancer",
+  "activated_stake": 516586.37585614703,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "FzQqaDStQQHs52YKeCnDovwSqvyZBCgs2kJcmvoFZwaS",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 1881605.3163500451,
+  "skip_rate": 0.22590361445783,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "DiFeTctQSaNczJNmZ5121kYqLaBe9wDpM9sjCzTELJLE",
+  "version": "4.3.2",
+  "name": "Serhio911",
+  "activated_stake": 15854.483738584,
+  "skip_rate": 37.5,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "8aySXUFrqJz5kath6aVijrkBH8ZtxMWJGhYXwYBpKmHK",
+  "version": "4.3.2",
+  "name": "L0vd 0% fee +MEV",
+  "activated_stake": 55650.781739291,
+  "skip_rate": 7.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BNtHBLo1L2vAG7PBQ6mJvWz7GqVPxBnioXsY2Gjtubrg",
+  "version": "4.3.2",
+  "name": "CatalystX - Innovation OnChain",
+  "activated_stake": 184243.45210640202,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BUv44cVtsdvU9z2BfFGk6s5JZZWrmVnq5qCaii5ARyyB",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 1937410.0777117012,
+  "skip_rate": 0.21676300578035,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CJFQNDPydtX4eL6TsgWS1hKxjh8xpJQXgkLTvkCBL4g2",
+  "version": "4.3.2",
+  "name": "ERPC",
+  "activated_stake": 80285.673483016,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "PAD9aPiKJGcbGxuVLbc8o4Vf65GPq3fJQ7PkHWuX6a8",
+  "version": "4.3.2",
+  "name": "BlueLotus \ud83d\udc69\u200d\ud83d\udcbb",
+  "activated_stake": 154593.41342005102,
+  "skip_rate": 3.9473684210526,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "777idJ8gG2cZXjc5Wvcq7RBtkvcU1TJ8WoLQSHaU8nN2",
+  "version": "4.3.2",
+  "name": "Sextant",
+  "activated_stake": 83287.08637269301,
+  "skip_rate": 4.5454545454545,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "sce2zXNjLpPMcSCATTrLiQhAAvHNNMKypTFVtg2H37U",
+  "version": "4.5.0-alpha.2",
+  "name": "",
+  "activated_stake": 59024.397009422006,
+  "skip_rate": 5.7692307692308,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "forb5u56XgvzxiKfRt4FVNFQKJrd2LWAfNCsCqL6P7q",
+  "version": "4.3.2",
+  "name": "Forbole",
+  "activated_stake": 91609.22466437801,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "ChorusmmK7i1AxXeiTtQgQZhQNiXYU84ULeaYF1EH15n",
+  "version": "4.3.2",
+  "name": "Bitwise Onchain Solutions 02",
+  "activated_stake": 1573425.2270073642,
+  "skip_rate": 0.28846153846154,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "ciTyjzN9iyobidMycjyqRRM7vXAHXkFzH3m8vEr6cQj",
+  "version": "4.3.2",
+  "name": "Phase Stake",
+  "activated_stake": 180482.19350005002,
+  "skip_rate": 2.2727272727273,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "4W3jdXyqhLCjzA3Liu8ZNjViwrc6N9YjSB7obbxfjcKE",
+  "version": "4.3.2",
+  "name": "Glory to Ukraine",
+  "activated_stake": 8025.936221322,
+  "skip_rate": 15,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "AurseT3W3tk1dATBWAXtWR6oubBgECqintfcvP74teU3",
+  "version": "4.3.2",
+  "name": "Aursen",
+  "activated_stake": 373290.27632416604,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9W3QTgBhkU4Bwg6cwnDJo6eGZ9BtZafSdu1Lo9JmWws7",
+  "version": "4.3.2",
+  "name": "Coinbase 03",
+  "activated_stake": 1477479.7027889611,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "MargusJeV9bkePFLWbbzRNsMVo3Re6h9wKB5Ago8Tfj",
+  "version": "4.3.2",
+  "name": "MARGUS.ONE \ud83d\udc8e 0% fee +MEV!",
+  "activated_stake": 62505.659591610005,
+  "skip_rate": 6.8181818181818,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "8BwBBt23a6v8HgNsFybpLFiBKLV8vWko2Vft3D2DxGvR",
+  "version": "4.3.2",
+  "name": "Meria",
+  "activated_stake": 234277.28636554902,
+  "skip_rate": 2.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BCeczqpTRPigndHVJu1KEzno1Uhb4hjrE7ttmAndrV1p",
+  "version": "4.3.2",
+  "name": "GlobalStake [Bare Metal]",
+  "activated_stake": 57544.933639868,
+  "skip_rate": 11.111111111111,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Mwz8VgAEnPtfqS62r3ixrFiMJwnNfEwR141CGnsTo5k",
+  "version": "4.3.2",
+  "name": "Rain Works\ud83d\udca7MEV\ud83d\udca70% fees",
+  "activated_stake": 83076.71248376601,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CtvdyHYt8cMuGVHFarV2RADfoCdnrbd8e9jAsB225uMW",
+  "version": "4.3.2",
+  "name": "SolanaBull \ud83d\ude80",
+  "activated_stake": 116650.288957383,
+  "skip_rate": 4.6875,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "4b1onMDEasBh4BuPekQWijx3BYR64hAE1z2jJyeZUkck",
+  "version": "4.3.2",
+  "name": "4BLOCK 0% Fee + Jito All MEV",
+  "activated_stake": 234475.725452187,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "KESTR4VhkALtPjwn4QLEErMB6vEmi8nyDo8JRqJ7KsH",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 5061.437801021,
+  "skip_rate": 25,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7HMHSdQkjDwz9Q5zAhEy83uzW3XHJchjdpMYapKXcKt5",
+  "version": "4.3.2",
+  "name": "GERSIA",
+  "activated_stake": 80281.28193027701,
+  "skip_rate": 4.6875,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "EfPYQ4BUMiKa6736qqrtnCBGkUSRDGSr1WvtyUgWHuyp",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 302019.44179399405,
+  "skip_rate": 1.5625,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CpgSfd6QUoBw1267rTtJoZhELqC5q7isKLojBifSbNEE",
+  "version": "4.3.2",
+  "name": "WestSide \ud83d\udd96",
+  "activated_stake": 92457.706734531,
+  "skip_rate": 3.75,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "nebu15XQKGpxzhhckADBX9PgvGN5qk9RRJCFLKc118w",
+  "version": "4.3.2",
+  "name": "Nebula Node",
+  "activated_stake": 111090.37115167301,
+  "skip_rate": 4.6875,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "vtav4QSdUYDbCbFGczVv2YxxKsoJUiTwm5JoJUV5HRi",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 64697.091205445,
+  "skip_rate": 5.7692307692308,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "58KprHKFNHgH1Cvo4QwxWkDeJNaSQVteCoAAFUWjtESn",
+  "version": "4.3.2",
+  "name": "Flash",
+  "activated_stake": 1102450.356473253,
+  "skip_rate": 0.40760869565217,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "61QB1Evn9E3noQtpJm4auFYyHSXS5FPgqKtPgwJJfEQk",
+  "version": "4.3.2",
+  "name": "Pigs in Blankets",
+  "activated_stake": 222056.79085491403,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9ppJrpsbbuGNjiMhhD52Ueco4KXUzVfrtNQ6tAcDab4f",
+  "version": "4.3.2",
+  "name": "johndoe",
+  "activated_stake": 188101.095755059,
+  "skip_rate": 3.9772727272727,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7nzTzRZzezmugqE5ZjHRMxarhXunpwZ2PUdjV7uYzt7A",
+  "version": "4.3.2",
+  "name": "Solar | Empowering Youth | 0% Fee + MEV Rewards",
+  "activated_stake": 148825.52381230402,
+  "skip_rate": 4.1666666666667,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HaLanfo94ezLc3JZ55qqxr7W3qbe1PprJyv2uEtriEqN",
+  "version": "4.3.2",
+  "name": "Bella2.0",
+  "activated_stake": 1136805.281204245,
+  "skip_rate": 0.39267015706806,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "dxa6QFqLcByyHykLCAW5tv1VYNVQFV3v6oovM2h8inH",
+  "version": "4.3.2",
+  "name": "Fidelity Center for Applied Technology (FCAT\u00ae)",
+  "activated_stake": 191611.600426104,
+  "skip_rate": 3.125,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "HpcB5Qg8Y9E73dUkot5e8HkgAJbExsYeUzniY4bCuKac",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 2500000.93738256,
+  "skip_rate": 0.18337408312958,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7GkMBmtrTZz8QbjSe1sXvAUtz7Pp42SQxfT5ymmJD4We",
+  "version": "4.3.2",
+  "name": "Phantom Validator",
+  "activated_stake": 363517.78671060404,
+  "skip_rate": 1.1194029850746,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "ETcW7iuVraMKLMJayNCCsr9bLvKrJPDczy1CMVMPmXTc",
+  "version": "4.3.2",
+  "name": "stakeware.xyz | ferric",
+  "activated_stake": 249993.4123556,
+  "skip_rate": 1.9230769230769,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "FBKFWadXZJahGtFitAsBvbqh5968gLY7dMBBJUoUjeNi",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 4069699.20828917,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "AHZxzLeRGRfNVFrCmP58iJgEwbcXyZeAkZ32CmbfEmYR",
+  "version": "0.1.1",
+  "name": "",
+  "activated_stake": 299997.99643426004,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "FACb6bbTDRBHCK999V8ox8jga5JBnt1r3vvzmAYAMv2o",
+  "version": "4.3.2",
+  "name": "Lantern",
+  "activated_stake": 284182.644826226,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "mds2fZEpJP688PqJHvfLxGyf2VFrcNkvjuUxNYCwjrq",
+  "version": "4.5.0-alpha.2",
+  "name": "",
+  "activated_stake": 57895.685282354,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "NordEHiwa6wT5TCjdeWJzpsA7DSmWQPqfSS7m2b6cv3",
+  "version": "4.3.2",
+  "name": "nordstar \u2b50 reliable staking +MEV",
+  "activated_stake": 220392.774572118,
+  "skip_rate": 1.530612244898,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BitokuDHQiAhpUKrwx1VssAAoW5Rst8zB6gpfoaxM3Kh",
+  "version": "4.3.2",
+  "name": "Xandeum Labs low fee + MEV = \ud83d\udd25APY %",
+  "activated_stake": 185637.911322961,
+  "skip_rate": 6.4516129032258,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HMWXfjaeSHhww1wvdBhqhHVP9v96mFB4LJ9xP2MXbDGH",
+  "version": "4.3.2",
+  "name": "CyberVillage",
+  "activated_stake": 96774.09180201,
+  "skip_rate": 2.6785714285714,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "meshRrDTME9cL2FSQ9E56EncfkZ7vL8apwcCFsw3o6Y",
+  "version": "4.3.2",
+  "name": "Mesh Validator",
+  "activated_stake": 64970.27110792501,
+  "skip_rate": 4.6875,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CoG8d9Fp2TFJRkAmrPMiPsGhQWHzdTTVoegEp9svRgmJ",
+  "version": "4.3.2",
+  "name": "Nansen | Stake to Stack Points",
+  "activated_stake": 1560339.996795994,
+  "skip_rate": 0.19280205655527,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2Wf9V9rPeVRUTfmWdPedCJuWVr6MFfyLuigEq42DuMDc",
+  "version": "4.3.2",
+  "name": "Blueprint",
+  "activated_stake": 613956.481528359,
+  "skip_rate": 0.83333333333333,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "b1ueZK9bWTywN2587zsScyLTaH18wfRfN5W15XnkiqF",
+  "version": "4.3.2",
+  "name": "Blue Sky",
+  "activated_stake": 53592.868906251,
+  "skip_rate": 10,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "FNTPSUuRpDoJx1hwFmB5ncNLLMX42aE83P4hsFYUfNRL",
+  "version": "4.3.2",
+  "name": "Nodz",
+  "activated_stake": 275744.122226224,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "6k1YkmTKwPRUhChnxA9ryJmbtuQMbro4xFTL6mL9jycB",
+  "version": "4.3.2",
+  "name": "Sign Labs \ud83e\udd1f",
+  "activated_stake": 182587.874487291,
+  "skip_rate": 2.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "4VrjyXQT61WFSjuG3ehgqZUK1jqvYqB46veQbXLotq3n",
+  "version": "4.3.2",
+  "name": "Vault X | 0% fee +MEV",
+  "activated_stake": 181289.915556646,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "8AkVj5aAtJ27tYXeq89cnSf68V43NarFHMx2iSDjZv7c",
+  "version": "26.10.4",
+  "name": "Theta",
+  "activated_stake": 173658.198555012,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "6gL3uHvuUjaPp9mTBf2VZ4tpKiYhbWyPrAPboGByzEHd",
+  "version": "4.3.2",
+  "name": "Mira Validator",
+  "activated_stake": 97295.177634759,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "DidkDYa64DEMx97P4iahDwsWtgUTnLiEhHSMUbQGihi5",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 308440.459025809,
+  "skip_rate": 1.3392857142857,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "FoXyHJXdQGK2eHoTjSAzHq4hzxWdJvpGgyzrtPS9eAk",
+  "version": "4.3.2",
+  "name": "Famous Foxes",
+  "activated_stake": 84253.508871707,
+  "skip_rate": 6.8181818181818,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "NdMV1C3XMCRqSBwBtNmoUNnKctYh95Ug4xb6FSTcAWr",
+  "version": "4.3.2",
+  "name": "Neodyme",
+  "activated_stake": 170739.485728639,
+  "skip_rate": 2.7777777777778,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "SQDS9iwyWvT2mQbSZzuNKGoxuBug5jRHouF6SuMRBkA",
+  "version": "4.3.2",
+  "name": "Squads",
+  "activated_stake": 128107.677962535,
+  "skip_rate": 3.2608695652174,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "svsD6T44XJnuXQWB15sy1pBxxruzrFy8rR7gXy8Jsj3",
+  "version": "26.10.4",
+  "name": "Solana Vibe Station",
+  "activated_stake": 101203.977454217,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "E99w1XfS4UNM1xUKXWEuDmj8Mduy7u65jm2NCULTspSV",
+  "version": "4.3.2",
+  "name": "Project Super",
+  "activated_stake": 163547.71165677602,
+  "skip_rate": 4.7619047619048,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2oHUYyW2PU9VJh4XBs5TbGgzdernunvGqyKth3kxW4ns",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 285745.686842108,
+  "skip_rate": 1.8292682926829,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Gv9gguvrAkgQtB5g5a3Un7trcHCxLYsk8vSojLmQMsWV",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 815604.1394204301,
+  "skip_rate": 0.45454545454545,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Lua1fxRRHCnjVAYdfGyv2GbUsRHGM2DN2wgpWuF2WSb",
+  "version": "4.3.2",
+  "name": "Lua Sol Foundation",
+  "activated_stake": 92187.02092033,
+  "skip_rate": 5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5HYjArGt81naevDdwMaEx8yeGNw9jYBSDJa8YavT9Mp4",
+  "version": "4.3.2",
+  "name": "Sol Hack3rs",
+  "activated_stake": 165957.40066896,
+  "skip_rate": 2.2058823529412,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "UNrgBLmc8JT6A3dxXY9DWeHvDezt2DZQbhg1KPQfqEL",
+  "version": "4.3.2",
+  "name": "Unruggable",
+  "activated_stake": 227431.186379488,
+  "skip_rate": 2.2058823529412,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2Eq6YD8P8QXTeoz9h6JHjgZ55t8RSxNdx4waMDCoPmQU",
+  "version": "4.3.2",
+  "name": "EvasMainnet",
+  "activated_stake": 144054.932916766,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "6xWLi1TDSh65fWsSqE1zdvANTSuVDRMx4ghsGJwgunS8",
+  "version": "4.3.2",
+  "name": "Solana Validator",
+  "activated_stake": 1195013.094466039,
+  "skip_rate": 0.38860103626943,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BXAxLMMMUNYfC1z166VjWHR3WjTmqzLxB837o5ghmRtH",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 793913.9200671171,
+  "skip_rate": 0.47169811320755,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "DeepM3FDWaAb7o53rvyZk5YvHLG3FvDiVXJLRY78z51p",
+  "version": "4.3.2",
+  "name": "DeepStake",
+  "activated_stake": 57906.699577393,
+  "skip_rate": 5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "pitch9cMruwjDtAnisNS4mwZUPhMsBztNEGu2weMg55",
+  "version": "4.3.2",
+  "name": "DePitch Academy",
+  "activated_stake": 96382.064302942,
+  "skip_rate": 8.3333333333333,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "LeDbQ99QT342j9S5YdyXLrsq2Gu3T3dMGajExdAuE3V",
+  "version": "4.3.2",
+  "name": "Ledger by Bitwise",
+  "activated_stake": 597228.938926055,
+  "skip_rate": 0.72115384615385,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9gMjDS6WPahWXBboJVoZA5DUVU4qTUdQY6acHbpQ38t6",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 250297.994743335,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7VZM7YHcX73TpGoXDeBu61g4QKC86GwAEnew8dA7Y2xn",
+  "version": "4.3.2",
+  "name": "BLOCKSIZE",
+  "activated_stake": 244807.008373999,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "AG1PsJMQcutNUX64RD3bAhW7NpxWeFkqkgGizBznYFKW",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 84479.213565725,
+  "skip_rate": 3.9473684210526,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "nSGZ3tv2UhskkPqiB666yDVj7PTi9qKgDqvjHyw5JgM",
+  "version": "4.3.2",
+  "name": "OranG3cluB",
+  "activated_stake": 123283.381128391,
+  "skip_rate": 3.9473684210526,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "DeXsDvvZzKhVux4YfDFE6p4acJLGzr8yKt5pSTjzZB8t",
+  "version": "4.3.2",
+  "name": "LootGo",
+  "activated_stake": 184388.883497058,
+  "skip_rate": 1.8292682926829,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3psxMyr7rQzywVp1MXKd1XFmFz33NjydzCoJx9t2sMQW",
+  "version": "4.3.2",
+  "name": "OtterSec",
+  "activated_stake": 2618547.779750109,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2zykwzzo1pd3H2oSj5j5SRLTvmpa9Nr2S2Bh8tTVd5Tq",
+  "version": "4.3.2",
+  "name": "zim.one | 0\ufe0f\u20e30\ufe0f\u20e3",
+  "activated_stake": 112507.35633741201,
+  "skip_rate": 2.6785714285714,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7RtC1QgiNVLANGRTEKxASz4bRiMYyf2hUVLs1XGuJ6Gr",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 282574.561523829,
+  "skip_rate": 5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "bookoVmqw4QjVj5BbkFacouadx9M7816wyRkfM7A5Lo",
+  "version": "4.3.2",
+  "name": "The Library",
+  "activated_stake": 139350.909485804,
+  "skip_rate": 3.2608695652174,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "49j9bnkdgVNxLwsZ9h88sPR5MYEmsUyKrrJ6ZW8ijBrb",
+  "version": "4.3.2",
+  "name": "StakeChain",
+  "activated_stake": 30985.606182332,
+  "skip_rate": 12.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "fishfishrD9BwrQQiAcG6YeYZVUYVJf3tb9QGQPMJqF",
+  "version": "4.3.2",
+  "name": "stakefish \ud83d\udc1f",
+  "activated_stake": 507287.498836008,
+  "skip_rate": 4.6875,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "4aRPyjsqqFsf5488a9QAaHJLQJMGwoL5P6wRtLmroe2d",
+  "version": "4.3.2",
+  "name": "SoLove",
+  "activated_stake": 146301.723565678,
+  "skip_rate": 2.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3V2xaccDpFib4DbTksdiveNDmiwpXBqSWyjSof3w1Bg7",
+  "version": "4.3.2",
+  "name": "Aurora Validator",
+  "activated_stake": 167191.07090346402,
+  "skip_rate": 2.4193548387097,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7zAHbRxEQaNjKnQMjFm7j8LebHSGfzsQDdm2ZpUNPa7G",
+  "version": "4.3.2",
+  "name": "Bitprim SOL Validator",
+  "activated_stake": 11700.750490162001,
+  "skip_rate": 15,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2T9NfUEDBcFUGGX3GgguMboJaGTe9eZMGemptqXMnvzR",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 208554.37781886003,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7d7x84jiVtqpz9NK88ocLmu4L15uhdnzMEDmo8Py8oVi",
+  "version": "4.3.0",
+  "name": "Validatize Validator",
+  "activated_stake": 35417.872457252,
+  "skip_rate": 15,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "By8MseMKtZQQaQjMHJiyetmc5AC8RZZv8C2ss33ktrHt",
+  "version": "4.3.2",
+  "name": "Wave",
+  "activated_stake": 93210.944956476,
+  "skip_rate": 5.7692307692308,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9hQqNe3DQTiwhspatewA8EXhz12e6sq5UJVJ2qNRwnTf",
+  "version": "4.3.2",
+  "name": "Stake Shark",
+  "activated_stake": 119776.046493921,
+  "skip_rate": 5,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "CARBN9PY1Qej1aCg4885pfoYH8EHfjWuMy59pVa48ky",
+  "version": "4.3.2",
+  "name": "Cloak",
+  "activated_stake": 88482.797928764,
+  "skip_rate": 7.6923076923077,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Fy7RCjDdFLG8wLn7TBKbccaKwYX1FetdSoVDREdUHf5o",
+  "version": "4.3.2",
+  "name": "3SDK",
+  "activated_stake": 80671.99887721,
+  "skip_rate": 5.7692307692308,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "ECZx4Dfyn2o55KTYbM9r3Dt4VZRcrdfdrst7sUbWgrdU",
+  "version": "26.10.4",
+  "name": "Orca",
+  "activated_stake": 183668.490480967,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "1Link6hB1NpkCwJt3ZtpQKZszKauhEcKgiWjaU8PRDG",
+  "version": "4.3.2",
+  "name": "OneLink Solutions",
+  "activated_stake": 80453.284124115,
+  "skip_rate": 5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BaDhUB1eWfunwD21Tu3WywyYQ9wZx5hS9WXeHHNGZUPy",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 75000.025475225,
+  "skip_rate": 5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HnwMGBAw5PxaX56eSYc969MorEy2NzEMPLkmBkdnJmeq",
+  "version": "4.3.2",
+  "name": "\u2b50StepByStep\u2b50 Jito BAM",
+  "activated_stake": 159744.66213243201,
+  "skip_rate": 2.4193548387097,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "93Q99nhdKjuSe6WNXgMBbC3s8QVQEAoHKt91PNRkUkMn",
+  "version": "4.3.2",
+  "name": "STEALTH",
+  "activated_stake": 117812.704035835,
+  "skip_rate": 3.9473684210526,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2AKKnirWVZMhnzuwqpizw9SwfZjGpRFLx2zCCNtPWpbc",
+  "version": "4.3.2",
+  "name": "The Chimpions",
+  "activated_stake": 114807.409259647,
+  "skip_rate": 3.2608695652174,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5fSQdv4zsAJNx6RKpGho6sL6rY6a8nziaqcmwaRJB9NE",
+  "version": "4.3.2",
+  "name": "Blossom",
+  "activated_stake": 136215.31523083002,
+  "skip_rate": 2.8846153846154,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "DDnAqxJVFo2GVTujibHt5cjevHMSE9bo8HJaydHoshdp",
+  "version": "4.3.2",
+  "name": "Block Logic +MEV +Triton",
+  "activated_stake": 184760.561735357,
+  "skip_rate": 2.2727272727273,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "4NwpynvugnHvyLzr5h9Y7mw44saGJXDNoBjm6wgMiYDr",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 376531.92472160904,
+  "skip_rate": 3.125,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "4VRs6A9zBRXz6MLcmQGsBiSoWE2JjHrmw7LintC3T4Nv",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 510344.145021344,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "6xFDLX751L7H9d5fQT9sf2SM5RWWE9LDgqz25pPDbWoJ",
+  "version": "4.3.2",
+  "name": "TdrSys",
+  "activated_stake": 84536.313474099,
+  "skip_rate": 3.2608695652174,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "grptonHnt7YSmJokGK9TJJTBXDT8ca4LSWMHCCfzzPa",
+  "version": "26.10.4",
+  "name": "gripto",
+  "activated_stake": 276192.723467049,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2N7v8pDKDYhtBUJBQUgxvysUjgM9s4ULPCmeEiPWTf6Z",
+  "version": "4.3.2",
+  "name": "HAKUHODO KEY3",
+  "activated_stake": 188381.101463089,
+  "skip_rate": 2.7777777777778,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HnfPZDrbJFooiP9vvgWrjx3baXVNAZCgisT58gyMCgML",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 2182665.92162986,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5XKJwdKB2Hs7pkEXzifAysjSk6q7Rt6k5KfHwmAMPtoQ",
+  "version": "4.3.2",
+  "name": "Moonlet",
+  "activated_stake": 184160.557079768,
+  "skip_rate": 2.4193548387097,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2nhGaJvR17TeytzJVajPfABHQcAwinKoCG8F69gRdQot",
+  "version": "4.3.2",
+  "name": "WinStake Labs",
+  "activated_stake": 54813.100491215,
+  "skip_rate": 10,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3KiDz3wuZrJfsgKt5KEvRb1WPpbci1PWj78aPVF5ei3F",
+  "version": "4.3.2",
+  "name": "Nemertes",
+  "activated_stake": 266585.769236245,
+  "skip_rate": 3.1818181818182,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "AoB1wTR7RYHMS6dEDzQ7UvHPNkNoDXbMjBhPBG5Vbu8v",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 301049.462724559,
+  "skip_rate": 1.25,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "4MKi9PLRv4x6Ey2Sc7KmuPGNhGmLW4NCcDVZd1PBdNSR",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 61006.045836091005,
+  "skip_rate": 6.25,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "jntr1vkzvSujfckGR6ANmFmirVoPBMNr5XJGKP5uDQA",
+  "version": "4.3.2",
+  "name": "Janitor",
+  "activated_stake": 50495.477268691,
+  "skip_rate": 8.3333333333333,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2X5yarNUWGyyiJDtRoPATvJYeNecvWG7zCkBrY2J1to1",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 519751.86065464705,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "6ptuwW4rg5A3wP9hNKxeymG3QhSagugPd3grnMTGJwWG",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 1265524.228603798,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "simpRo1FrQYGa1moicfgnPDp6KyE38d4gYrZzhjXYJb",
+  "version": "4.3.2",
+  "name": "Simpdigit",
+  "activated_stake": 228557.58986525203,
+  "skip_rate": 1.4705882352941,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9iFPQbP1jGkj67sXg6YLLGRUBVEDMcapdS6jmCZSnz8R",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 396012.98077426205,
+  "skip_rate": 0.97402597402597,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5pPRHniefFjkiaArbGX3Y8NUysJmQ9tMZg3FrFGwHzSm",
+  "version": "4.3.2",
+  "name": "Kiln1",
+  "activated_stake": 5967787.19447523,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "D4r6Rcua2L7nHHhdaiZe2k2bTfPg2WQqcNYpG6bugvCG",
+  "version": "4.3.2",
+  "name": "Limitless Systems",
+  "activated_stake": 120009.92699612901,
+  "skip_rate": 5.3571428571429,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "YuRBAsy9Stw1u46A8dMp7WQVBFweLP1PKuYibzYAMmQ",
+  "version": "4.3.2",
+  "name": "Yurbason",
+  "activated_stake": 130415.167378653,
+  "skip_rate": 2.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "EkvdKhULbMFqjKBKotAzGi3kwMvMpYNDKJXXQQmi6C1f",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 4120076.6365815834,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "KAW1LjxH73tRBd1XsaqsRsgeERFkg4WpdXUSqR4QjkW",
+  "version": "4.3.2",
+  "name": "Kawil",
+  "activated_stake": 71020.30580733501,
+  "skip_rate": 6.8181818181818,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "8LDyyeJQTjR2hNRpjEVYNT2WFMXDpiCs4r98EpWSTt8D",
+  "version": "26.10.4",
+  "name": "Temporal Topaz",
+  "activated_stake": 162213.256420572,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "8T8AJfUCXwPFwEMmjca8gCRSktPrqbUBVa6ggNyhLhFJ",
+  "version": "4.3.2",
+  "name": "StudentSOL",
+  "activated_stake": 176464.596857563,
+  "skip_rate": 1.6304347826087,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Raydiumm3w3a4nGanDBLkUtKxMFooSPmeg9qwUKMsMc",
+  "version": "4.3.2",
+  "name": "Raydium",
+  "activated_stake": 295567.713325072,
+  "skip_rate": 1.4150943396226,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "sbidYi7fbif6qNsMpwBKvyF5DKcLCbjaegpADsKqNux",
+  "version": "4.3.2",
+  "name": "SolBlaze",
+  "activated_stake": 236328.66231801402,
+  "skip_rate": 1.530612244898,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "hxMhrsuGPDmkLJ4mTxEjyeMST3VGhTiwJvS9XgHwePj",
+  "version": "4.3.2",
+  "name": "Suzuko Stake",
+  "activated_stake": 87622.09340033801,
+  "skip_rate": 5.7692307692308,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "4k6wgP5WPBKQpsFGtzuXNrjcTE2fKWLj17nDvFeG5zSF",
+  "version": "4.3.2",
+  "name": "Dawn Labs",
+  "activated_stake": 475558.508678606,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "LodeuWMHPiPj2PUHUyca2bkpFv9HyzR3gaDBmGJ9TSS",
+  "version": "4.3.2",
+  "name": "The Lode (Sentries)",
+  "activated_stake": 103931.35752214401,
+  "skip_rate": 4.1666666666667,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "RoYFUUD7QD9aQ34UCMcwfye8dC5YvJeXz2J3mmoy5S4",
+  "version": "4.3.2",
+  "name": "Lifinity Protocol",
+  "activated_stake": 135809.10067465302,
+  "skip_rate": 2.2727272727273,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "A1vqhA2fS6K7CvHsJKX1ACcHJFEmyRg4KuR5pctHANy4",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 3951573.3857949954,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "11AMA4mnNbsrPQeuoNN7uiZVJZtqEzQHrTfa5vnbcjk",
+  "version": "26.10.4",
+  "name": "11ama Validator",
+  "activated_stake": 206741.192986426,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3RXKQBRv7xKTQeNdLSPhCiD4QcUfxEQ12rtgUkMf5LnS",
+  "version": "4.3.2",
+  "name": "Chainode Tech & MEV(0% Fee)",
+  "activated_stake": 398661.617802962,
+  "skip_rate": 0.96153846153846,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5AsoSeQtLoN8eLsf3wKrR3LwxHME4sTBGR6dpTCP1k3H",
+  "version": "4.3.2",
+  "name": "some name",
+  "activated_stake": 180594.99137483502,
+  "skip_rate": 2.5641025641026,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9bkyxgYxRrysC1ijd6iByp9idn112CnYTw243fdH2Uvr",
+  "version": "4.3.2",
+  "name": "Legends",
+  "activated_stake": 59540.47378873001,
+  "skip_rate": 17.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "sTepQGoReJq2tBKStL19DT6nnGHcGiAvFjyYaokLyuM",
+  "version": "4.3.2",
+  "name": "Step Finance",
+  "activated_stake": 193123.74458755902,
+  "skip_rate": 2.2058823529412,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2gDeeRa3mwPPtw1CMWPkEhRWo9v5izNBBfEXanr8uibX",
+  "version": "4.3.2",
+  "name": "NuFi",
+  "activated_stake": 243665.827483205,
+  "skip_rate": 1.4423076923077,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "G8kUFxhR7eSmSyAtVYEAyhvkBKdR49n7d8BKqpBo55kJ",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 257793.436453433,
+  "skip_rate": 1.2931034482759,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "rapXHroUoGG3KvZ3qwjvGMdA7siWXwXpiNC1bYarvSC",
+  "version": "4.3.2",
+  "name": "Raposa Coffee",
+  "activated_stake": 102042.21171923401,
+  "skip_rate": 5.3571428571429,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "EQhTjikb1L2jvxsCaSW2o2TuRXh4Do6HzBEWCxpeM44W",
+  "version": "4.3.2",
+  "name": "JM",
+  "activated_stake": 279238.27276913903,
+  "skip_rate": 2.2727272727273,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "8hAYbagNt7CMBooFfqVJhBgLqLffpjXTWJMk8yybjJsN",
+  "version": "4.3.2",
+  "name": "Hive Validator",
+  "activated_stake": 175567.42876247902,
+  "skip_rate": 2.8846153846154,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "6XJ4aKjsKQsTfhajjXNycZ11HhkXzTCheKdpWt78doFu",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 203793.53222043402,
+  "skip_rate": 2.027027027027,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "popscoyTKVksa4TyTXw488b3vvFxM7qQEyTBeMQopKu",
+  "version": "4.3.2",
+  "name": "P-OPS Team",
+  "activated_stake": 189001.00963336902,
+  "skip_rate": 2.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "vahMVcSS3v6uwyFormV7FDAUbQSHwmy6vUedp1P7L42",
+  "version": "4.3.2",
+  "name": "StakeITeasy\ud83d\ude80High APY + 0% fee\u2705 + MEV\ud83d\udd25",
+  "activated_stake": 103852.02680408601,
+  "skip_rate": 3.75,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "hnhCMmnrmod4rcyc3QRKkLEC9XnPTvYJ2gBvjgFiV4o",
+  "version": "4.3.2",
+  "name": "Hodl & Hodl LLLP",
+  "activated_stake": 96191.971555176,
+  "skip_rate": 6.25,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7CR6whiYULVf1Knj4J5PxUS37opdk8UAx2WnDzBQKiVe",
+  "version": "4.3.2",
+  "name": "DataHive AI | Missions",
+  "activated_stake": 95418.95204201,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9ueKvL3WiLM4mNUZrfWqPTYY2Np5YwzFTYvAiPibx1Zq",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 88717.202057036,
+  "skip_rate": 3.5714285714286,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "LimeA3gMLb2SjxrKbP7NsWk1UwTZrw4B6Ctc9dmVU6E",
+  "version": "4.3.2",
+  "name": "LimeChain",
+  "activated_stake": 164418.32617379402,
+  "skip_rate": 2.6785714285714,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "AMukCLCr52XxsEjXoDxKKxjNg4FpnsReXNaQx8aR6DJF",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 1428153.374592594,
+  "skip_rate": 0.27675276752768,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "vaoJKVZYPAsqc52T2nNQhABR1gU6Cy2koDKfCQaEiva",
+  "version": "4.3.2",
+  "name": "polkachu.com",
+  "activated_stake": 143235.25298989,
+  "skip_rate": 2.6785714285714,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "EydLxzdWfD434DDxZYXkTcajvK5VKH7p6CofEDCRUkJ4",
+  "version": "4.3.2",
+  "name": "Bernardo Beacon",
+  "activated_stake": 123669.231164341,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Pid6HQnMCFb9izqX9i7X6ePdUPieGmjHoPxC1Jfooix",
+  "version": "4.3.2",
+  "name": "Pine Stake",
+  "activated_stake": 225636.92425678502,
+  "skip_rate": 2.2727272727273,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "soLStaCk5TiGCpeLKa9Fvv6f5JQGMa6S3uhLh826e9N",
+  "version": "4.5.0-alpha.2",
+  "name": "SolStack by Corvus Labs",
+  "activated_stake": 259148.84642628103,
+  "skip_rate": 2.1739130434783,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CZanBzZHFzrGY5qKzaX3CNhJ5smHEMTWFFnoeUi4J6dr",
+  "version": "26.10.4",
+  "name": "Omakase",
+  "activated_stake": 79627.706219939,
+  "skip_rate": 7.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "GmCxjmjKZoaKN1DKunbYq8RCYib94Nm3sHyncFfofaF5",
+  "version": "4.3.2",
+  "name": "Rocket",
+  "activated_stake": 167976.47199574302,
+  "skip_rate": 2.2058823529412,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7knvB4bbqHCKuNp3ef2hJWdwqoH6WAUi55NQt6LdRfkx",
+  "version": "4.3.2",
+  "name": "AutoStake \u26a1\ufe0f 0% fee",
+  "activated_stake": 73062.613377827,
+  "skip_rate": 9.375,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "c3rtoMCHSbFrLRTAdw4iRowKSn4BrDtvSPbuyJwkHwx",
+  "version": "4.3.2",
+  "name": "Latitude.sh",
+  "activated_stake": 123117.947974319,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "novaeuhY2JH2WHhc9KVTHDx2cyJZdXJC6faf4CtARZn",
+  "version": "4.3.2",
+  "name": "Nova Consortium",
+  "activated_stake": 152390.409689803,
+  "skip_rate": 2.8846153846154,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7PdKhpKz7T39vZHFL1UfcYNDsLvay6hp4KPQq1aUckFf",
+  "version": "4.3.2",
+  "name": "Alpha Pro | High APY\ud83d\ude80 100% Reliable \u2b50 VIP Services",
+  "activated_stake": 769998.0978732491,
+  "skip_rate": 0.48701298701299,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2VKu11f8zc3huqDQUN6WJTFpX32PgHpXXjf72P6YvYMd",
+  "version": "4.3.2",
+  "name": "Marco Polo 0% Fee +MEV",
+  "activated_stake": 145819.335889139,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Ee8dX3qtwrDRnxYK6NGQfmMeKT3Qpp2QZHpxiAiw23W9",
+  "version": "4.3.2",
+  "name": "StakeNode777",
+  "activated_stake": 141150.24978412,
+  "skip_rate": 3.9473684210526,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "G1eAmANVWf6ZeoxG4aMbS1APauyEDHqLxHFytzk5hZqN",
+  "version": "4.3.2",
+  "name": "Gleam",
+  "activated_stake": 59867.633148687004,
+  "skip_rate": 12.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "EUDis6LJeJzDHTEBgfHGQyjHp63XZkGkx4E69xunC2Ej",
+  "version": "26.10.4",
+  "name": "Validator 1",
+  "activated_stake": 402356.226786427,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "RBFiUqjYuy4mupzZaU96ctXJBy23sRBRsL3KivDAsFM",
+  "version": "4.3.2",
+  "name": "RockawayX Infra",
+  "activated_stake": 415132.729766027,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "LandXx5ebB8Bo1hJXNoUJtju3SM25YJKHUoAmYQU6tJ",
+  "version": "4.3.2",
+  "name": "VaultImgPoc",
+  "activated_stake": 28216.209990529,
+  "skip_rate": 10.714285714286,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "adramSYKBv1yHoZTub4kepcmF5LybPxwyJcsz4fpfi7",
+  "version": "4.3.2",
+  "name": "Adrastea Validator",
+  "activated_stake": 294729.179783798,
+  "skip_rate": 2.2222222222222,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2P9ZYA4vBoBBr56hrEFTmrd5ctuz3r7wtvRYmbgk6jRL",
+  "version": "4.3.2",
+  "name": "Sunshine",
+  "activated_stake": 140578.970526107,
+  "skip_rate": 2.5862068965517,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Je6ckvDiPr7zKz49JVXFuhXRFLS3W57WnksbS2G8tbP",
+  "version": "4.3.2",
+  "name": "Veyrstone",
+  "activated_stake": 175134.895157107,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "GHQsq6bAdgooi998uKhwdzFubsJ7R3SuhTE9gJ83gctU",
+  "version": "4.3.2",
+  "name": "Axis",
+  "activated_stake": 203750.4057124,
+  "skip_rate": 1.875,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "jzDsimGW1g8esbD1Kr2oRvr9X573XS2zQd7AsYJ1to5",
+  "version": "4.3.2",
+  "name": "JitoSOL Prime",
+  "activated_stake": 1525170.9995375471,
+  "skip_rate": 0.26408450704225,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "DP9SwUE9Wi4NijWxgKDmmVsqGtQ597AKKmDBwzpt8GgZ",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 267272.85946699104,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3SkE34PVeGck2ArEffFKjihrQgURsvnoTAhitsNXNzXd",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 2500000.947676992,
+  "skip_rate": 0.16375545851528,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "4JahMMrVRS1gimWoXpD5H6KwKc2MrsoTDFMaStMttL1E",
+  "version": "4.3.2",
+  "name": "xSTAKE | 0% fee",
+  "activated_stake": 98132.02849356801,
+  "skip_rate": 3,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "57i31UEyDg4koaZMZ1wAHbYuezXv3AVaHtvJgJarxt3f",
+  "version": "4.3.2",
+  "name": "[Public Good] Chive \ud83c\udf31 - 0% Fee + MEV + BlockReward",
+  "activated_stake": 131445.27448353,
+  "skip_rate": 3.75,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "6Rk694kh1QTyQkirdb1uDZmS5xqG9bNaYtxx8d311Mr7",
+  "version": "4.3.2",
+  "name": "Anode \u26a1\ufe0f Beta",
+  "activated_stake": 91491.57989365401,
+  "skip_rate": 6.8181818181818,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "SA1LFXr4os2P4VKGUyRv84uFfuUYgcQkFh2uA4SmRcr",
+  "version": "4.3.2",
+  "name": "Salmon Wallet",
+  "activated_stake": 72740.380639476,
+  "skip_rate": 9.375,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "8ebFZA8NPLBZD91CwsG1HWQsa2B5Ludgdyf5Hi3sYhhs",
+  "version": "4.3.2",
+  "name": "stake.systems",
+  "activated_stake": 146714.275135409,
+  "skip_rate": 2.34375,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BJvrWSfonXnS2Km8iA9KLY6D6vS3GcsaUwUNPFBumTca",
+  "version": "4.3.2",
+  "name": "rossi-mainnet",
+  "activated_stake": 98344.58230650201,
+  "skip_rate": 4.6875,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "DCKyEmMENQMtLXgbmUoHRmgP9XdJ9HsR5WxrKnSDCzKA",
+  "version": "4.3.2",
+  "name": "Dicky",
+  "activated_stake": 95996.871708584,
+  "skip_rate": 5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "LitxAVo3RnYXD2sX1TyRJxfnKy48amXgyGiysPZjZwE",
+  "version": "4.3.2",
+  "name": "Litx - 0% Commission",
+  "activated_stake": 73910.48395499801,
+  "skip_rate": 9.375,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "43Am3PKFeo9cACpqYL5Sk95rpVdxLw3Mc22PqRqZXEW2",
+  "version": "26.10.4",
+  "name": "Titan Analytics",
+  "activated_stake": 262658.691773518,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BuonuQoAR74GoMwCFhxKWVWWSGGt2wfbNmQ3cizaJ97G",
+  "version": "4.3.2",
+  "name": "Solarius\u2600\ufe0f",
+  "activated_stake": 124240.31374403101,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5DYpYgKgHV5aswMXBLp3UfJnbbzzFnGiJPpcxVAm56bG",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 1251434.307766692,
+  "skip_rate": 0.35046728971963,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 1875000.9534662,
+  "skip_rate": 0.2212389380531,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "AmjX7CerZbHrU814UeBp2gJC7gANNG3KrP4c3RyD7TSD",
+  "version": "4.3.2",
+  "name": "NTT DOCOMO GLOBAL",
+  "activated_stake": 185036.843117022,
+  "skip_rate": 2.34375,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Aw5wEMXhbygFLR7jHtHpih8QvxVBGAMTqsQ2SjWPk1ex",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 2499999.93966544,
+  "skip_rate": 0.16592920353982,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "8uJiHDJ1b7UDQ4KFsQGJXK9nUCkokdKRJymg1Wy9nxvM",
+  "version": "4.3.2",
+  "name": "Alpha",
+  "activated_stake": 1001931.2283261041,
+  "skip_rate": 0.38265306122449,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "rsbp8zMHbGCpLoRktmsjspYv77VcjxAzH1KxPCD9BiU",
+  "version": "4.3.2",
+  "name": "Albert is Great",
+  "activated_stake": 209351.602022456,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "BVHwHvRNwt8eM1x7cmfrEdhrbZAdWiFe9FnEFGhGuUTR",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 161235.77176983302,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "FphFJA451qptiGyCeCN3xvrDi8cApGAnyR5vw2KxxQ1q",
+  "version": "4.3.2",
+  "name": "ex1arey",
+  "activated_stake": 82884.149610159,
+  "skip_rate": 6.25,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "8vk6QpG93JSaQCSgnycBsv5qmfQBk4qC9FjNA35E5JhU",
+  "version": "26.10.4",
+  "name": "Tinydancer",
+  "activated_stake": 302065.116803826,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "FBbqKvwLfKGZrKrfSbPJz4ymQ7zMarhRyZtu1RBkSe89",
+  "version": "26.10.3",
+  "name": "",
+  "activated_stake": 1917688.3981191772,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7CR3Jq4ny2tsr3DX3DvyjoU8TYs776MGkU6nLMWjAqCT",
+  "version": "4.3.2",
+  "name": "Bitcoin Suisse",
+  "activated_stake": 587933.11613669,
+  "skip_rate": 0.78125,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3JotfSFPaod4KVK7nj7ULvcq5PjUBdZNVGracNkJNhrt",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 1837000.1835587202,
+  "skip_rate": 0.22935779816514,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "G4GT8z4AKWNoy3x6nuzxW83UfFXLXzrwn7DZQt4GvWdU",
+  "version": "4.3.2",
+  "name": "FREEZZ",
+  "activated_stake": 100349.894000343,
+  "skip_rate": 3.125,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "NLMSHTjmSiRxGJPs3uaqtsFBC2dTGYwK41U18Nmw5kH",
+  "version": "4.3.2",
+  "name": "T-STAKE Systems",
+  "activated_stake": 123233.087703097,
+  "skip_rate": 4.1666666666667,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HrpWeJSYnQVtZe3BKxFCBrAEr8GRCmYUbQev4hoGDBs6",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 199797.709598763,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "version": "4.3.2",
+  "name": "binance staking",
+  "activated_stake": 12572396.114967449,
+  "skip_rate": 0.22737608003638,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "fhsM2sxME8cHrrk3qvtMsRRDv5AoLFja7NjNnHeYZxe",
+  "version": "4.3.2",
+  "name": "Fountainhead \ud83c\udf31 Funding Dev WITH max APY",
+  "activated_stake": 138430.425429319,
+  "skip_rate": 3.5714285714286,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 4477328.987787841,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "mds4GEuiSgQRqveGyktWpETBFCb4AS2wDnhqwLHcT6Z",
+  "version": "4.4.0-beta.1",
+  "name": "",
+  "activated_stake": 342111.907528528,
+  "skip_rate": 1.6129032258065,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "8uPW9msN75rfaKiwy8y8NxEX5zSk2WejtVv5YhZr3jCo",
+  "version": "4.3.2",
+  "name": "Lumos Maxima",
+  "activated_stake": 156630.591482332,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "axy3tCRL3wmFMVG4c69rYurcf4fXhBo2RcuBj9ADnJ4",
+  "version": "4.3.2",
+  "name": "Somos Validator",
+  "activated_stake": 90179.435909451,
+  "skip_rate": 9.375,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3WDh9HgusCujDmXCVhophLrHvoKHQd1Sd4uFHz1Awo35",
+  "version": "4.3.2",
+  "name": "Absolute Guard",
+  "activated_stake": 262733.455363382,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "EJsJx7Smt3jBheNF2ReTxq3HXh9Aczt6PHK12B5tkJk8",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 521346.38277173403,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "GEM1N1UE3C8BB8EaaEPrcFvT3iLMVrurknjW5AYjUReR",
+  "version": "4.3.2",
+  "name": "Gemini",
+  "activated_stake": 797849.5093493401,
+  "skip_rate": 0.58139534883721,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "AWcCdYG7Dy6GX45c6QMPbgGwgRZPKcBDT4bXGb3QrVRV",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 2013800.9971220512,
+  "skip_rate": 0.20604395604396,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CuStTdKU5nWev5YKxMHyFjiHYG2CnjZ3rrPa8r1G2hTw",
+  "version": "4.3.2",
+  "name": "Custodian \ud83d\udcbc 0% fees +MEV!",
+  "activated_stake": 15798.122173853,
+  "skip_rate": 37.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "4vcmYPfLztUckU3c3FvXDwSq8aDNDqwEpvEiqAv97LGJ",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 197637.99577782102,
+  "skip_rate": 3.125,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "FLwV8tm3pL8pZj6d927VASzPrgW51Gf4nRJuTewrfega",
+  "version": "4.3.2",
+  "name": "Velox Validator",
+  "activated_stake": 533547.590843649,
+  "skip_rate": 0.86206896551724,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Cu9Ls6dsTL6cxFHZdStHwVSh1uy2ynXz8qPJMS5FRq86",
+  "version": "4.3.2",
+  "name": "Stardust Staking - 0% fee forever + MEV 0% fee",
+  "activated_stake": 486295.530017865,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "GGX3BEoZDqjxcw4AbCdu62ZTMrkpSgmPt81oP2mVuZNS",
+  "version": "4.3.0",
+  "name": "HashKey Cloud",
+  "activated_stake": 152885.62445206102,
+  "skip_rate": 4.5454545454545,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "22rU5yUmdVThrkoPieVNphqEyAtMQKmZxjwcD8v4bJDU",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 2322629.005990086,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7PpXQgDb9eCHN1Uudgi77Wm89cRz4T85YgDw83qvaJXd",
+  "version": "4.3.2",
+  "name": "Nodance \ud83d\udc83 00",
+  "activated_stake": 82552.98913096801,
+  "skip_rate": 7.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "sfvTq7ojrEc5WdXcHijz676eX1pc5MgoLxbkYSdRDAB",
+  "version": "4.3.2",
+  "name": "soltop.sh",
+  "activated_stake": 81054.52195741101,
+  "skip_rate": 3.4090909090909,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "kyzzzgRymGpePUsLyr48kQHt53kh5CSfRH1qfvz1xgj",
+  "version": "4.3.2",
+  "name": "Kyzzen",
+  "activated_stake": 112638.977374566,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2icWF7TvxyycF7d1NHpMZYuJJqiRy2h7wmjFSbqUij1B",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 58343.391378830005,
+  "skip_rate": 7.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "8W8v28d1fBZE1fkaaHbowJM4hGZGnVHWNK1NyhUsob6Z",
+  "version": "4.3.2",
+  "name": "Michigan Blockchain",
+  "activated_stake": 219376.25389738003,
+  "skip_rate": 1.8292682926829,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "6TkKqq15wXjqEjNg9zqTKADwuVATR9dW3rkNnsYme1ea",
+  "version": "4.3.2",
+  "name": "melea \ud83d\ude80 SOL \ud83e\udd112K",
+  "activated_stake": 1330086.2810282072,
+  "skip_rate": 0.3393665158371,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Ey3DkEVbfBxfWmkTsG7Hqj7jshYf5Zx9H8462Zjjkykf",
+  "version": "26.10.4",
+  "name": "SolBrothers",
+  "activated_stake": 186192.260557742,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "bitHUmbKSQDTGoyoiW3BeqaGWdyV5sS3nYt5SduUHfb",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 1352006.002539592,
+  "skip_rate": 0.86206896551724,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "D8xKNftHzFcCekENuTEcFC1eoL9y8wNHEg4Q5z57KK4e",
+  "version": "4.3.2",
+  "name": "Mice Stakin'",
+  "activated_stake": 95564.818205385,
+  "skip_rate": 5.7692307692308,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7MTjmteQHhthwwTZhUzsc2dP4NBvGNRqj8jzdqNxHFGE",
+  "version": "4.3.2",
+  "name": "WEB34EVER \u221e POSTHUMAN",
+  "activated_stake": 161387.824726469,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "EdGevanA2MZsDpxDXK6b36FH7RCcTuDZZRcc6MEyE9hy",
+  "version": "4.3.2",
+  "name": "Edgevana",
+  "activated_stake": 185343.673122311,
+  "skip_rate": 1.7045454545455,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "MicoB9cA9R6jsicdhzWFjwd9HMkV8FA4o3WxYU6Z2yz",
+  "version": "4.3.2",
+  "name": "MICOBO",
+  "activated_stake": 105405.29793929501,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "8gDfqHXZ5ektqQQrLrCGtSzYRwkWQrm3ANnAvQCt2LoM",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 1827559.806607051,
+  "skip_rate": 0.23885350318471,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "6DTkuiey2RgMaBPC32dx2YpRKoNVfL19WdwBYih5SkVw",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 89154.998333761,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "radM7PKUpZwJ9bYPAJ7V8FXHeUmH1zim6iaXUKkftP9",
+  "version": "4.3.2",
+  "name": "Radiants",
+  "activated_stake": 290176.924827389,
+  "skip_rate": 1.8518518518519,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BtsmiEEvnSuUnKxqXj2PZRYpPJAc7C34mGz8gtJ1DAaH",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 4069463.049720092,
+  "skip_rate": 0.096525096525097,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "revtecFsGSRCdF29atQvchSXrjwBesA9vSisD4fyH5K",
+  "version": "26.10.4",
+  "name": "RevTec | 100% Block Reward",
+  "activated_stake": 132932.802037648,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "suoHAQF4NJQd97mpot3A9cLDnHQ52r3wJEtjCXTsu5U",
+  "version": "4.3.2",
+  "name": "Suoha",
+  "activated_stake": 35555.331804338,
+  "skip_rate": 9.0909090909091,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BhNnboEZb3mKkVADMH11cYGWCqefAfmhzx5rU4eRTKGY",
+  "version": "4.3.2",
+  "name": "Firstset",
+  "activated_stake": 93151.763518993,
+  "skip_rate": 6.8181818181818,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "gVALrRd3xq4D62KJNGDCpMMGz976w2x1Vo79mSNn4bh",
+  "version": "4.3.2",
+  "name": "Cirro",
+  "activated_stake": 142703.300995702,
+  "skip_rate": 5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CRNyGD7xNPThLjNviGdxoAiHpQXZKx3UeyCfrxnmTi8r",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 20310.031677662002,
+  "skip_rate": 18.75,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "PKdLMugp1Mf88Ji1GkdqRDBewaUh2cqg79CBEo6eJoQ",
+  "version": "26.10.4",
+  "name": "PK",
+  "activated_stake": 112375.11920083001,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "SLNDCSGTEsA6KHpgR32MBt9UAurZnVSJGUtW2tRpdU2",
+  "version": "4.3.2",
+  "name": "Solend",
+  "activated_stake": 277888.74474511703,
+  "skip_rate": 5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "ALPHA6rdHZkx1om79xp47vX1iZXcbM3qfEwLyttZ1T7R",
+  "version": "4.3.2",
+  "name": "Lifetime 0% fee + full MEV payout | Alphasearch",
+  "activated_stake": 265297.033256651,
+  "skip_rate": 2.6315789473684,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "4DraK9wUrMSpzbGjUbSWTHAhJimMyB49HyKhvfwe6e51",
+  "version": "4.3.2",
+  "name": "Y8 Crypto",
+  "activated_stake": 221904.32884624103,
+  "skip_rate": 2.34375,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Fc6NNdS2j3EmrWbU6Uqt6wsKB5ef72NjaWfNxKYbULGD",
+  "version": "4.3.2",
+  "name": "OKX Earn",
+  "activated_stake": 4279522.2440528935,
+  "skip_rate": 0.11961722488038,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "SWD1LwTcEtpCRL683CT4HYDaGgMyMZ9LpSa5Foarsq4",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 126298.673680865,
+  "skip_rate": 2.4193548387097,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "tapeQbu7YwpMuJNA2oSKBJkfBdic5QJ9bCZt27Q4PVf",
+  "version": "4.3.2",
+  "name": "Tapedrive",
+  "activated_stake": 113957.44505784701,
+  "skip_rate": 3,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "fdzip81euDS8jEZHx5H1mn27zGVMLzkgpQuzYRBfBYG",
+  "version": "26.10.4",
+  "name": "fd1.zip \ud83d\udce6",
+  "activated_stake": 193440.04114174203,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "DcTPJqPNrTLv3te1c9ctA9H194x6DsaPA4ChuSEv7KPZ",
+  "version": "4.3.2",
+  "name": "Temporal Emerald",
+  "activated_stake": 1231746.5519400002,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9Wmaz9VPpEnH67ZqrvYd9bcH66DtsGaEKcSQE1ac5wkf",
+  "version": "4.3.2",
+  "name": "LumLabs",
+  "activated_stake": 18447.297370514,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5pZvwjSpGYCxpJeySwSbSAji7kZe4YntL7rQvXM3YcNT",
+  "version": "4.3.2",
+  "name": "Solstice",
+  "activated_stake": 206094.017478711,
+  "skip_rate": 2.4193548387097,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CwyVpfmfSiMeCexi3JgUNvaiDfYN14cLDjzT99zcBuD2",
+  "version": "4.3.2",
+  "name": "Hamsa",
+  "activated_stake": 1061259.417696923,
+  "skip_rate": 0.375,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "SWiz7QwnYPm61pWWUUkMhj4r5pZLP1SvYibdHcB2cov",
+  "version": "4.3.2",
+  "name": "BOOP Wizard",
+  "activated_stake": 98928.08023801501,
+  "skip_rate": 5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "gUvo3g5LfH4Pd8qnG7T6MPEFa5bPr8LhDdxDahwYqis",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 308697.978592385,
+  "skip_rate": 1.7241379310345,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5EhGYUyQNrxgUbuYF4vbL2SZDT6RMfhq3yjeyevvULeC",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 3598006.0679959003,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "DEU4agzdUCA5oZ1QSLxCyZb1smvdu5j1NXXsK2r823Uu",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 42446.394291013,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "version": "4.3.2",
+  "name": "Figment",
+  "activated_stake": 17096229.98475625,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HVXXmNKkmDZbZwj74iL2Y9Wu4SyrchBoxAfFYVAktLrG",
+  "version": "4.3.2",
+  "name": "fat tails lab",
+  "activated_stake": 125653.77820380201,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HcZvwZ83PfjrQDiq3GLHxisTs17aGURs6bJ2LwtmL4qv",
+  "version": "4.3.2",
+  "name": "SolGuardian",
+  "activated_stake": 330439.831565783,
+  "skip_rate": 1.25,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "AbvfvRfKHDpytbQqE8Y4jQrt262akV3RnA1RqMxQxg1x",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 167620.36773682202,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Ste1115xFGdAYK5jaWA3dEFcUc1S5jEbVvD8e327zty",
+  "version": "4.3.2",
+  "name": "Stellium",
+  "activated_stake": 158095.15531674202,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "FoigPJ6kL6Gth5Er6t9d1Nkh96Skadqw63Ciyjxc1f8H",
+  "version": "4.3.2",
+  "name": "Solana.capital",
+  "activated_stake": 60715.65138300601,
+  "skip_rate": 5.3571428571429,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "AS4i8EXUZnPbmNT5ZXmoTEbrXQrbFoReiWwwFB43Ds5z",
+  "version": "4.3.0",
+  "name": "BlackMont",
+  "activated_stake": 9561.77093923,
+  "skip_rate": 75,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "chrtyETASKQhsndRM9pr6qC3gAHG5MuRwCgXSNVqnJL",
+  "version": "4.3.2",
+  "name": "Charity Soul",
+  "activated_stake": 116924.931772665,
+  "skip_rate": 3.75,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5aD6KB8g4MPt3xJafmMmun86hHMDnoFiGbd5gYiMFZw7",
+  "version": "4.3.2",
+  "name": "Daiko",
+  "activated_stake": 190350.15485652402,
+  "skip_rate": 2.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CQdLgwkmmHF8DE6t4sguXMTXWDxq3oLh3xfekDTmow12",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 2132216.4976263964,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "MCFmmmXdzTKjBEoMggi8JGFJmd856uYSowuH2sCU5kx",
+  "version": "4.3.2",
+  "name": "MCF",
+  "activated_stake": 190453.37337163102,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "8GLRbAstsabZuZUx73AoyfGi1FRCWSUhRgMugFyofEz7",
+  "version": "4.3.2",
+  "name": "Syncnode | 0% Fees  | Genesis Validator",
+  "activated_stake": 184460.190708387,
+  "skip_rate": 2.2058823529412,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "WUNoB9YQXmXXRcJsjY1G8PfVag5aAfnyGmFd6YwJVwp",
+  "version": "4.3.2",
+  "name": "StakeCraft",
+  "activated_stake": 386095.52059601404,
+  "skip_rate": 1.7241379310345,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 1207979.324911175,
+  "skip_rate": 0.375,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "AdSHK6vpQnwHRSw7jXUwjMEytmhFwnynZSENhvpAxL1y",
+  "version": "4.3.2",
+  "name": "crypto-jack-sparrow",
+  "activated_stake": 36618.46435367,
+  "skip_rate": 25,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3DaifGfDESUzer5ggUeo6UDjqEKMkCpdNSrrvyuggHVe",
+  "version": "4.3.2",
+  "name": "Speedlanding Validator",
+  "activated_stake": 32786.882085167,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Bi9kKNxfW2XqgCmLcuhHt6A3x55GuAGmrVZxRHLyVoQ4",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 411091.688460604,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "4XspXDcJy3DWZsVdaXrt8pE1xhcLpXDKkhj9XyjmWWNy",
+  "version": "4.3.2",
+  "name": "Ubik Capital - 0% Fee, MEV",
+  "activated_stake": 308358.147873133,
+  "skip_rate": 1.1029411764706,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5essVpBYvocZkQnkrWsMDfRPwtp4BeihJRaweKLR4dRn",
+  "version": "4.3.2",
+  "name": "Certora Validator",
+  "activated_stake": 1038915.2146179811,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "mineL1YNwcRnxN93B2sX6q22R11WfRqxnY4NBV8KfFY",
+  "version": "4.3.2",
+  "name": "Exo Tech",
+  "activated_stake": 581382.291441746,
+  "skip_rate": 0.61475409836066,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9GHvMeJ4ZWuAX6sDGscFL1TBMszx2EehnrcTVUy4MZJQ",
+  "version": "unknown",
+  "name": "",
+  "activated_stake": 234442.50770311602,
+  "skip_rate": 88.725490196078,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "AsMpvJ3DZ2Ydu1WTRMAyMH4QjSLiUG39rKzfzvtE1bWr",
+  "version": "4.3.2",
+  "name": "Nordic Staking 0% fee top APY 3+ years",
+  "activated_stake": 210740.71383516802,
+  "skip_rate": 1.6304347826087,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "D4KUs6wFY8qh7H1euCoCCpRMh6841cskzzfNcjmGBt6e",
+  "version": "4.3.2",
+  "name": "Tramplin",
+  "activated_stake": 7658.290118513,
+  "skip_rate": 15,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "GWJyUxzcVwRRtpLuLiu1mpiUQsZ4onYFAYfCjQnuLmz5",
+  "version": "4.3.2",
+  "name": "Pacific Meta",
+  "activated_stake": 172704.19853861802,
+  "skip_rate": 2.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "6aDs9tUm2gErcPn2c1TZnp5cu2bQV9BzyuwW4baWQYd4",
+  "version": "4.3.2",
+  "name": "Coinbase 05",
+  "activated_stake": 1464459.688168619,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "8yjHdsCgx3bp2zEwGiWSMgwpFaCSzfYAHT1vk7KJBqhN",
+  "version": "4.3.2",
+  "name": "JStaking: 0% fee \u00b7 top returns",
+  "activated_stake": 168919.34701620202,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HbidP4hpQdwhkzrxder3x3VNPt6DQnE25gFG46napD2p",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 1835664.8007285402,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "AiDoLWFKzNxSXKeZ4zym2TEPkg6F4kQ3YBA8WhANVPEq",
+  "version": "4.3.2",
+  "name": "AiDoL",
+  "activated_stake": 897493.133925526,
+  "skip_rate": 0.45454545454545,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HH5dA42XF1HxNk1TRpG6LuKfLViMYNdAz5iWrFM4hWFi",
+  "version": "4.3.2",
+  "name": "Trust Nodes",
+  "activated_stake": 844754.429268738,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "sTEAKPk59EtPPbixCweyv6oRLNCDEE8pnnef6gUfbiW",
+  "version": "4.3.2",
+  "name": "STEAK.NET \ud83e\udd69",
+  "activated_stake": 208444.103503944,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "ExCHWgfeJyKRzpfryiQn4W6aYaWhbSAEnsoUnBGNqjWD",
+  "version": "4.3.2",
+  "name": "DSM-01",
+  "activated_stake": 101868.35816842,
+  "skip_rate": 7.1428571428571,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "DViARWAWKkxAzp4UCgbw5B9pLSrBY3PaztFErcwgVUKX",
+  "version": "4.3.2",
+  "name": "Code-Breader",
+  "activated_stake": 225219.86034159202,
+  "skip_rate": 1.8292682926829,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CtzN7ysR5rX69qd168Aosbuc83mPozhi81bEHbG7ecNP",
+  "version": "4.3.2",
+  "name": "Citizen Node",
+  "activated_stake": 69200.22928476501,
+  "skip_rate": 7.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "YE11a5nVJtUNqsojkphYuWc7StqBzbCeFH6BjhAAUEV",
+  "version": "4.3.2",
+  "name": "Mellow Yellow",
+  "activated_stake": 66475.629969534,
+  "skip_rate": 7.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3YVoK8UN62dyiPZnGBzBTkGdwsVmmK1MpRoLcxNRs9BE",
+  "version": "4.3.2",
+  "name": "Calypso",
+  "activated_stake": 496118.627683777,
+  "skip_rate": 0.96153846153846,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "4uH4G6YiD5G8rU3mtPg73C2Uqamrqedy3FboTZcZrh6x",
+  "version": "4.3.2",
+  "name": "Windfall",
+  "activated_stake": 196241.898473962,
+  "skip_rate": 3.125,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7Nn8qBJey7vXtVFMNBbbuN8UkujU8Y6nWzbHVGuf49yV",
+  "version": "4.3.2",
+  "name": "livechanger",
+  "activated_stake": 6151.84879042,
+  "skip_rate": 8.3333333333333,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2XmhZKHmfjku3T3nC9xKhgr5bm1CAmWXqNsNt49mo82C",
+  "version": "4.3.2",
+  "name": "Soldea Kitchen",
+  "activated_stake": 117378.22611021301,
+  "skip_rate": 5.7692307692308,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Tri1F8B6YtjkBztGCwBNSLEZib1EAqMUEUM7dTT7ZG3",
+  "version": "4.3.2",
+  "name": "Trillium",
+  "activated_stake": 274761.457832775,
+  "skip_rate": 1.271186440678,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "nodeEgRVkbYLAQePtMx2zCN7CGw7qRgzKMCBtjMfN1D",
+  "version": "4.3.2",
+  "name": "Node Integration",
+  "activated_stake": 82851.349069117,
+  "skip_rate": 3.2608695652174,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "EPFZFVrXuveEQar9LaEkt5kDRPMnbvK54qu5FwCxpkcy",
+  "version": "4.3.2",
+  "name": "AiSol",
+  "activated_stake": 118855.11222729801,
+  "skip_rate": 5.7692307692308,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "GZ4U21pYmFkCk6ZNTHRzfVEZZXauyZLKDmuuuKGwvp5H",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 775035.397747089,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "MBVyz9s72WSfUmbr1S8fgHjDJQkPs1Q4Wxi6A2Mees9",
+  "version": "4.3.2",
+  "name": "WIZE Validator",
+  "activated_stake": 182738.269069489,
+  "skip_rate": 2.1428571428571,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "AWZhUiQjrjtxL8MEMWsCFbMausFQKkdTnDsFW2i411hN",
+  "version": "4.3.2",
+  "name": "MeshMap",
+  "activated_stake": 99000.493764593,
+  "skip_rate": 5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7S22CYpfBRV1p8cTqWXFD4HwfqfNx3hAhfpdj8E2bYvJ",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 300000.99771712004,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2mMGsb5uy1Q4Dvezr8HK2E8SJoChcb2X7b61tJPaVHHd",
+  "version": "26.10.4",
+  "name": "Chainflow",
+  "activated_stake": 548951.674712262,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "pebb1eQXvcuQfXkeyYjdoBVufKHwdKGL3G37GUts8Db",
+  "version": "26.10.4",
+  "name": "Pebble",
+  "activated_stake": 149011.397058451,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "D3htsc6iRQJLqCNWcC2xcZgUuvcd1JT8zoYNqraNcTQz",
+  "version": "4.3.2",
+  "name": "pico\ud83d\ude44.sol",
+  "activated_stake": 79526.15059996801,
+  "skip_rate": 4.6875,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "DaRKu4L3qAgXLpuUfk7k8mTB9VzXBEj5hxLVe2mQS1dE",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 51468.652433301,
+  "skip_rate": 15,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3tm92VTxwyZ5MDhGoYR4tVTkwWYkzfam6hwBjauUACCk",
+  "version": "4.3.2",
+  "name": "Solplanet Validator",
+  "activated_stake": 74771.921229941,
+  "skip_rate": 3.9473684210526,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "H4te9uzz1c74QeqfhyKeENoTvSseEPm4A3oFXBvqpF8Q",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 134068.96081742202,
+  "skip_rate": 2.6785714285714,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Hu7pi2Xg5Kav8vSAUUr5CCZaEmMCzT6FgCTpueu3oBtW",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 85766.908932648,
+  "skip_rate": 5.5555555555556,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "krakeNd6ednDPEXxHAmoBs1qKVM8kLg79PvWF2mhXV1",
+  "version": "4.3.2",
+  "name": "Kraken",
+  "activated_stake": 3406795.1553908424,
+  "skip_rate": 0.12175324675325,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "6qwYjs5vCSEKaTMBbHinnW8fvdGj1r8cpzPoAV1EHKsw",
+  "version": "4.3.2",
+  "name": "Fast Runner",
+  "activated_stake": 101245.22925610801,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3KNGMiXwhy2CAWVNpLoUt25sNngFnX1mZpaiEeVccBA6",
+  "version": "4.3.2",
+  "name": "01node",
+  "activated_stake": 95173.58954233701,
+  "skip_rate": 3.4090909090909,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BxkAkLR2W3agWtjMXBNvhxmB8vsn7zhjNQcyfost99KY",
+  "version": "4.3.2",
+  "name": "\ud83e\ude90 To The Stars \ud83e\ude90",
+  "activated_stake": 92170.642922656,
+  "skip_rate": 5.5555555555556,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "jagBNeXYncnn1hzwSq1JJ16XhWTgQ7DCFVqndSJZ6vT",
+  "version": "4.3.2",
+  "name": "Jaguar",
+  "activated_stake": 156909.16544551402,
+  "skip_rate": 4,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CAo1dCGYrB6NhHh5xb1cGjUiu86iyCfMTENxgHumSve4",
+  "version": "4.3.2",
+  "name": "Kraken 2",
+  "activated_stake": 9478407.185464352,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7EzbSahSfSjeRexHcNDLDpzHBAGBLjLKtjbmuoQnEtjE",
+  "version": "4.3.2",
+  "name": "Gate Earn",
+  "activated_stake": 695694.8283648271,
+  "skip_rate": 0.54347826086957,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3Rv6ZVGUuRczP76322LyhTTYw2iM4avV4B5xFJocQJer",
+  "version": "4.3.2",
+  "name": "Gaxx Validator",
+  "activated_stake": 91912.308993041,
+  "skip_rate": 5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "8NpDWRcKHkBjn8mbHMYgDm2Z2DRvXXuDiSScPsGSdSgr",
+  "version": "4.3.2",
+  "name": "P2P.org Labs",
+  "activated_stake": 243365.041088708,
+  "skip_rate": 2,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "FWD1aVC1U1zVYpLde4buhGkcNzFTVZPikPFYizMc4RGh",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 10002.476058703001,
+  "skip_rate": 18.75,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CLsFr1KZVbAyz16iFpwg2e4hiekR1unpwyxfNdjBMaoE",
+  "version": "4.3.2",
+  "name": "Vault",
+  "activated_stake": 188514.45737294,
+  "skip_rate": 2.0833333333333,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "D2RV1q6FgePVVjrMa7AMzVbvvAeg5oS7TAV7qdNKSDsX",
+  "version": "26.10.4",
+  "name": "Validatore",
+  "activated_stake": 312784.74912485405,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "E9hD3ikumJx1GVswDjnpCt6Uu4WG5mz1PDWCqdE5uhmo",
+  "version": "4.3.2",
+  "name": "cp0x_by_STAKRspace",
+  "activated_stake": 126450.50536600001,
+  "skip_rate": 2.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "version": "26.10.4",
+  "name": "Galaxy",
+  "activated_stake": 7037301.0909082135,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "6y7V8dL673XFzm9QyC5vvh3itWkp7wztahBd2yDqsyrK",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 2916667.65537848,
+  "skip_rate": 0.13686131386861,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "mint13XHZSSxtgHuTSM9qPDEJSbWktpmpM4CZxeLB8f",
+  "version": "4.3.2",
+  "name": "Hanabi Staking \ud83c\udf86 | Staking Champions | DoubleZero | \u274cBAM",
+  "activated_stake": 334886.84325731103,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "LunaowJnt875WWoqDkhHhE93SNYHa6tfFNVn1rqc57c",
+  "version": "4.3.2",
+  "name": "LunaNova",
+  "activated_stake": 160849.022740474,
+  "skip_rate": 4.6875,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2abwQG3v2xRemFxRszVHSfnjJNe9zu5X8duKgxjyLeaK",
+  "version": "4.3.2",
+  "name": "Bitwise Onchain Solutions Research",
+  "activated_stake": 12140.027415306,
+  "skip_rate": 75,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "DF1owXYZ1fk5vWyHJ8s1cJeAozgkqsi1JUVqvktqrpwd",
+  "version": "4.3.2",
+  "name": "DFlow",
+  "activated_stake": 389850.61327648,
+  "skip_rate": 1.1029411764706,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HE2REn7YRhFEghuctv3y1dUEK9aWhw8QQSUpRiHd819r",
+  "version": "4.3.2",
+  "name": "Coinbase 06",
+  "activated_stake": 127389.36328143801,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "DefiihS7gLkj6xLjjhcr87bFuwpVVNYpeNBaBeFe56CY",
+  "version": "4.3.2",
+  "name": "Yield Lab",
+  "activated_stake": 91091.697130932,
+  "skip_rate": 4.7619047619048,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3Pfubj3ytkRxFAGwFb5vtacuZJUxko5Du39xie9MBXuC",
+  "version": "4.3.2",
+  "name": "[NODERS]",
+  "activated_stake": 133968.860311978,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "sce3TfT81rxYYcdbP1kBFMcTK3ZBc8hvHVeXD6WLSzE",
+  "version": "4.5.0-alpha.2",
+  "name": "",
+  "activated_stake": 58635.765146753,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "dst2u7mXMyDvb14cSErRNA1mxH1d5VXbSXgZ3DKE9xH",
+  "version": "4.3.2",
+  "name": "Dust Eleven",
+  "activated_stake": 95087.790491412,
+  "skip_rate": 7.6923076923077,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Ha1iade1AH3B12K9SccfWoPdFtQKKQsj2ZyWwxcjqJJU",
+  "version": "4.3.2",
+  "name": "Ha1iad3",
+  "activated_stake": 906741.271549287,
+  "skip_rate": 0.43103448275862,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9PRr9k87HjjdLMRkxtxygidjxVta9VQ1kAsqgLBWXKdQ",
+  "version": "4.3.2",
+  "name": "Golden Tower Staking",
+  "activated_stake": 125388.33700810901,
+  "skip_rate": 4.1666666666667,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CVRr5oHCAAooVbYze7CvXtRp4FUtkMCSqBZU7MVu8v8e",
+  "version": "4.3.2",
+  "name": "Coverlet+MEV | 0% ALL FEES \u2705",
+  "activated_stake": 171767.437929311,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "38zm5bBgDaNRSQBDUAL72kMH3RsX4UKmZiNmmrjuTq8W",
+  "version": "4.3.2",
+  "name": "MAVAN Infrastructure",
+  "activated_stake": 129169.570302387,
+  "skip_rate": 3.2608695652174,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HT41udB8mLZZf7tev9tUoHYJ41TP8GWZ6zFMbjiviXk5",
+  "version": "4.3.2",
+  "name": "Neumann",
+  "activated_stake": 301389.360584077,
+  "skip_rate": 1.271186440678,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "91oPXTs2oq8VvJpQ5TnvXakFGnnJSpEB6HFWDtSctwMt",
+  "version": "4.3.2",
+  "name": "Stronghold",
+  "activated_stake": 198004.09501421903,
+  "skip_rate": 2.6785714285714,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "4SNKY7GCp7ohY4AawND5Cc2D71sWMWN3Uifo854yvtks",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 450000.01230257004,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "MARiKM3t7pDCyXtvLq24ErWDAvYu84yXqCthkR1GS33",
+  "version": "4.3.2",
+  "name": "\ud83e\uddd1\u200d\ud83c\udf73 Customized Rewards (5.38% APY)",
+  "activated_stake": 196204.56126653,
+  "skip_rate": 2.34375,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Certusm1sa411sMpV9FPqU5dXAYhmmhygvxJ23S6hJ24",
+  "version": "4.3.2",
+  "name": "Asymmetric Research",
+  "activated_stake": 376629.27256314,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "DrifTrN923QaouP89UxkQzFGbumKPCnfkNYQRwmZxatz",
+  "version": "4.3.2",
+  "name": "Drift",
+  "activated_stake": 2817721.2647276074,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "6XKqyUVUcpe3CNucjF6gk5zonJDqNGvob6kaTy4Ps1U",
+  "version": "4.3.2",
+  "name": "Solana Mobile Validator",
+  "activated_stake": 743095.5909806001,
+  "skip_rate": 0.53191489361702,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "XkCriyrNwS3G4rzAXtG5B1nnvb5Ka1JtCku93VqeKAr",
+  "version": "4.3.2",
+  "name": "Coinbase",
+  "activated_stake": 661009.955178993,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "74MzXStH8pLPZjbNxZKdtDGJehur2JgjZNeTPqSn37nE",
+  "version": "4.3.2",
+  "name": "Uphold",
+  "activated_stake": 352202.738045821,
+  "skip_rate": 1.3392857142857,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "ChKZmewGBzbsxvoLNChDe9YDzzKJ3p1A6uLTECmR7g41",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 168670.960585633,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3DaPk6TdeGnEBwTR8fEyZSLkdayk6vZXrqGZhAgYK8BV",
+  "version": "4.3.2",
+  "name": "Stand With Ukraine | 0% Commission + MEV + Block Rewards 20%",
+  "activated_stake": 85270.85947043501,
+  "skip_rate": 5.5555555555556,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "73hojLdq1vZDSxeVQEqVFJ4iwLngdvEJPEpEHkSdv6BZ",
+  "version": "26.10.4",
+  "name": "SuperteamDE x Staking Facilities | Public Goods Validator",
+  "activated_stake": 221641.93369327803,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "dcntruDNP5SEcGV4RxnsqXFURdDZGT3DTQv68Q8H7Vu",
+  "version": "4.3.2",
+  "name": "Decentra",
+  "activated_stake": 196609.728894925,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "G2TBEh2ahNGS9tGnuBNyDduNjyfUtGhMcssgRb8b6KfH",
+  "version": "4.3.2",
+  "name": "AG 0% fee + ALL MEV profit share",
+  "activated_stake": 906786.956618285,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3CKKAoVi94EnfX8QcVxEmk8CAvZTc6nAYzXp1WkSUofX",
+  "version": "4.3.2",
+  "name": "Solid State Nodes",
+  "activated_stake": 123316.70852064401,
+  "skip_rate": 9.375,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "FGiEdzde7Fco2WLpNQMat299hUVoykJdaA5hxdmCzHiS",
+  "version": "4.3.2",
+  "name": "Vnode",
+  "activated_stake": 128602.18266123501,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "A4hyMd3FyvUJSRafDUSwtLLaQcxRP4r1BRC9w2AJ1to2",
+  "version": "26.10.4",
+  "name": "Jito2 (Experimental)",
+  "activated_stake": 354370.904523977,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "version": "26.10.4",
+  "name": "Jupiter",
+  "activated_stake": 9724045.661416186,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "8Nvaxzif1NrdvxNkRetjT8xJvd33EHkKVrfL8EDkgaNy",
+  "version": "4.3.2",
+  "name": "South",
+  "activated_stake": 166524.13166701302,
+  "skip_rate": 2.027027027027,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "vu1sGn2f1Xim6voHNLt4nLn38zNkYdLasU7hEr1TC2D",
+  "version": "4.3.2",
+  "name": "Allnodes\u00a0\u26a1\ufe0f 0% fee",
+  "activated_stake": 767998.9324939781,
+  "skip_rate": 0.53191489361702,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "AicQr2zCWBLiBwt2r6o7iTemmtyE7q5pTKyuuupbXEQA",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 1039473.644011736,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "UPSCQNqdbiaqrQou9X9y8mr43ZHzvoNpKC26Mo7GubF",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 265463.306685257,
+  "skip_rate": 1.5957446808511,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "gojir4WnhS7VS1JdbnanJMzaMfr4UD7KeX1ixWAHEmw",
+  "version": "4.3.2",
+  "name": "Gojira",
+  "activated_stake": 83155.85767338,
+  "skip_rate": 3.9473684210526,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2Gfd4mkMqDVNFXxT6xvCSYUVdFPbuJLT6bhVsezdaRwe",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 208834.04606208802,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "RoYLttggWwa2st3KAGEjnPhsq4NPD5QwaNVyyR8pTz4",
+  "version": "4.3.2",
+  "name": "Royal",
+  "activated_stake": 51193.304534808005,
+  "skip_rate": 12.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2X7WoaXX9KPqNrNfvguhnwo3rjFPNsfw2t75fGjWRthz",
+  "version": "4.3.2",
+  "name": "Stakely | 0% fee",
+  "activated_stake": 156369.73028802802,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "dzBhD4wikyy7xqwiJvT49gdrKqWVjfs9M6cTssmRX8Y",
+  "version": "4.3.2",
+  "name": "IBRL",
+  "activated_stake": 47589.086900111004,
+  "skip_rate": 16.666666666667,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "chopskqnudaeCTENWzUjfFCBSLcxprqbdMoCAucAwfb",
+  "version": "4.3.2",
+  "name": "Choplet Studios",
+  "activated_stake": 109310.37309009001,
+  "skip_rate": 5.2631578947368,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9UM8wQ8F5oMiRcP5YdqD6Lr4krpBWCD8LtgQYoisJd9i",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 3700813.5834544413,
+  "skip_rate": 0.1099706744868,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "GkFT5nmcFVmJiLwuE98PjdF3LReMeq4WbejFHfwrnsgw",
+  "version": "4.3.2",
+  "name": "KAST",
+  "activated_stake": 137997.88079708102,
+  "skip_rate": 2.7777777777778,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "32ke3uf1qL3xLqbwzU76T2sbG2XaJrGuSCNdUnien3zm",
+  "version": "4.3.2",
+  "name": "FalconX",
+  "activated_stake": 428539.17537844204,
+  "skip_rate": 3.2467532467532,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "C1ocKDYMCm2ooWptMMnpd5VEB2Nx4UMJgRuYofysyzcA",
+  "version": "4.3.2",
+  "name": "Overclock",
+  "activated_stake": 1004420.190230275,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
+  "version": "4.3.2",
+  "name": "Anagram Staking",
+  "activated_stake": 2264600.7607359183,
+  "skip_rate": 1.0504201680672,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HLXxkmjb47spcmbbKi3UCfZ2qmFY29t8MN562AEmh2Qh",
+  "version": "4.3.2",
+  "name": "\ud83e\uddec HelixNode 0% fee \ud83e\uddec",
+  "activated_stake": 142272.52620736102,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9q16BB7WGmBxf1nJTdxH5zPnBUhtHqdqXqRFjSjuM4k7",
+  "version": "4.3.2",
+  "name": "JDO Mainnet Validator",
+  "activated_stake": 123781.158313541,
+  "skip_rate": 3.125,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "SANDCxXBbQhvbUqNtiLqKdFEY1uQhVo1UgUACaS4mXU",
+  "version": "4.3.2",
+  "name": "Goldsand",
+  "activated_stake": 34563.282594418,
+  "skip_rate": 0,
+  "delinquent": true,
+  "is_jito": true
+ },
+ {
+  "identity": "scb1Z7du8NVSaHFXsafSjRdXr6xBjWR3iugikL739Y1",
+  "version": "4.4.0-beta.1",
+  "name": "",
+  "activated_stake": 58996.50802889901,
+  "skip_rate": 10.714285714286,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "Stakex4B2tpDHPWGvV1dninfiaYCGdakgTknpzPitLh",
+  "version": "4.3.2",
+  "name": "Stake.org",
+  "activated_stake": 198997.78594723402,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "GvfaiJUhNCRZGVGumsEF1eHDb8JpAeFAyHSrTifyhrbt",
+  "version": "4.3.2",
+  "name": "Vybe Validator",
+  "activated_stake": 133433.282519284,
+  "skip_rate": 4.1666666666667,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9gFxqsXbFyrKXUkqpAatonn47uYZ7sEZSnMxhzQoXrUJ",
+  "version": "4.3.2",
+  "name": "LUX8 Validator",
+  "activated_stake": 295535.05109407,
+  "skip_rate": 1.6304347826087,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "PAWsME7oYbjt5TRNc11mBa33JhKnQr9AYherdr9YAZ6",
+  "version": "4.3.2",
+  "name": "Paws\ud83d\udc3e 0% Fee/MEV",
+  "activated_stake": 208515.315759971,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "6bBw4LYVzXQoNs1TH4yVavtpCu5cdwYGvmuXVcZmNeKy",
+  "version": "4.3.2",
+  "name": "XStake Validator",
+  "activated_stake": 15369.128998781001,
+  "skip_rate": 18.75,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "99rG5AhkVagxJ7y8NpMAmy1h1u9GhT3h1Cimu2X3cwaJ",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 146818.28705357,
+  "skip_rate": 2.34375,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "8augxYLUge2iWmitQMwbcBL5VQEpsM6aJdRofhwpnzyw",
+  "version": "4.3.2",
+  "name": "Stake.Cake",
+  "activated_stake": 139256.639485071,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "bxrAptB5ZpZBhoLedJpoGWY5hBjjt3zvVBr2323Rrq6",
+  "version": "4.3.2",
+  "name": "bloXroute EU",
+  "activated_stake": 110185.67668656501,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5FbKKGdEaFcxGxxaLKVvBes2JxiKbreh8w2ZpMcSQ2a5",
+  "version": "4.3.2",
+  "name": "Table Rock Jungle Lodge",
+  "activated_stake": 97937.431706377,
+  "skip_rate": 4.6875,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "LA1NEzryoih6CQW3gwQqJQffK2mKgnXcjSQZSRpM3wc",
+  "version": "4.3.2",
+  "name": "Laine \u2764\ufe0f  by SOL Strategies",
+  "activated_stake": 417970.328538961,
+  "skip_rate": 0.94936708860759,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "1KXvrkPXwkGF6NK1zyzVuJqbXfpenPVPP6hoiK9bsK3",
+  "version": "4.3.2",
+  "name": "1000X.sh",
+  "activated_stake": 186231.432623235,
+  "skip_rate": 2.4193548387097,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "6xUK9Nbonr4eoJNtHGoUEMmYKoPz5mipKzyDBv6deX4d",
+  "version": "4.3.2",
+  "name": "LuSOL +MEV",
+  "activated_stake": 125690.39034586101,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5RvfTSowms7BTYaBj8SxVjj7ELAAKdQadKsuNpmBAwCs",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 809945.7801132251,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9AW87WqARQonyJYhx1G25fKfvjURFYVmHs79z1NUXDPD",
+  "version": "4.3.2",
+  "name": "\ud83d\udd25Aurora staking",
+  "activated_stake": 300639.90444589005,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "FwnWx7x99rGwLmipzz8ii15NqcHkKRo2oS1Y7j6LivgZ",
+  "version": "26.10.4",
+  "name": "Prompt Logic",
+  "activated_stake": 217923.357872733,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "STKEsvUSpD38eDxkAJN6cENMYfjVxieajVpmVVkgd1t",
+  "version": "4.3.2",
+  "name": "Orangefin by SOL Strategies",
+  "activated_stake": 606156.960094942,
+  "skip_rate": 0.65789473684211,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "anza1rXDVhy1NfVNtsbT3kSBh2jgB1BGZUKuUibSAJd",
+  "version": "4.3.2",
+  "name": "Anza",
+  "activated_stake": 232467.61603347003,
+  "skip_rate": 1.6304347826087,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "scb2TYPmwHgKxXJaJNq6gHKwYkVyLKx58hz9RbCKZZR",
+  "version": "4.4.0-beta.1",
+  "name": "",
+  "activated_stake": 58906.910239443,
+  "skip_rate": 5.3571428571429,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "2dfgsiSaZ51QYPsECMYMG247PXxyKdwkV9wTHoQb8YEC",
+  "version": "4.3.2",
+  "name": "Astraeus",
+  "activated_stake": 292848.982743515,
+  "skip_rate": 2.34375,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "EvnRmnMrd69kFdbLMxWkTn1icZ7DCceRhvmb2SJXqDo4",
+  "version": "26.10.4",
+  "name": "Everstake",
+  "activated_stake": 7782538.803998725,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3tzpLMWRkWucvTRWU5PjgKzN1iwJuV69yCCjmuuo4gTk",
+  "version": "4.3.2",
+  "name": "TruFin by Twinstake",
+  "activated_stake": 188991.68637406302,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "ReFiqMfGnc7tW8WQtFFcJRPZSDAWDBnAsdoFYF2QnfR",
+  "version": "4.3.2",
+  "name": "ReFi Hub",
+  "activated_stake": 191912.76804088402,
+  "skip_rate": 2.3809523809524,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2t53LvZfskcpXkdwLaBnfZLbNgyVHPu2BNFpcRBaEBhM",
+  "version": "4.3.2",
+  "name": "Kevred",
+  "activated_stake": 138965.93444966502,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "chdvWr6T14nqGRFD37KY36dsvhkCtDaufW5rpu3AfHe",
+  "version": "4.3.2",
+  "name": "CH Dev",
+  "activated_stake": 50396.58753292901,
+  "skip_rate": 7.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BRAZAtTTzR2Es8c98hJvcngerTEyRGSdgkHU59n4A6GT",
+  "version": "26.10.3",
+  "name": "Superteam Brazil",
+  "activated_stake": 151485.993661512,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7Zm1pE4FubFYZDyAQ5Labh3A4cxDcvve1s3WCRgEAZ84",
+  "version": "4.3.2",
+  "name": "7Zm1pE4FubFYZDyAQ5Labh3A4cxDcvve1s3WCRgEAZ84",
+  "activated_stake": 192998.83913294302,
+  "skip_rate": 2.2727272727273,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "mds1WWedpezW3qvgML4WgP341jZksYAy5SbMLwjP5KC",
+  "version": "4.5.0-alpha.2",
+  "name": "",
+  "activated_stake": 57793.264330787,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "5MAGJ3zShtXMMVXjZRoFqtFF7XhP8iLSyZrxdL7KpjcB",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 238941.58924448403,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2ooJ5UKSrpsuEzZV4DpDKvfHmXw3huZyqg8B6RSozdKy",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 16600.49090734,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "TREEir31FswHK7JZBS5oFQteS72dobi6inpmQha88dA",
+  "version": "26.10.4",
+  "name": "Tree Validator",
+  "activated_stake": 221736.747687616,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HTeRsa3gm3CGrizMoCrtWj4uBZ1NKYcGqh8jfBu2u3Jo",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 1810360.8675431942,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "ANC1u9sY36q3mi2MyVhtz71un8yLgTsFBUuyLcSPzKsk",
+  "version": "4.3.2",
+  "name": "Anchorage Digital",
+  "activated_stake": 739786.117117887,
+  "skip_rate": 0.54744525547445,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "puffinQSvKFriPbyE5atyx1ptfnyytovbzxybr1jsyy",
+  "version": "26.10.4",
+  "name": "Puffin",
+  "activated_stake": 213259.35801844503,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "uEhHSnCXvWgtgvVaYscPHjG13G3peMmngQQ2ghC54i3",
+  "version": "4.3.0",
+  "name": "Satellite Staking",
+  "activated_stake": 96798.818025989,
+  "skip_rate": 4.6875,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "C8Bey3LKVJHVqN6xPTeW8WJfUgFQAeGNBpT4Rp99JP1k",
+  "version": "4.3.2",
+  "name": "Ledger by Figment",
+  "activated_stake": 9213418.487287037,
+  "skip_rate": 0.10391923990499,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2Mob8FJkb8chZY5pTBMpKfLwgZAQHE5i9jAC5zbASitD",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 350609.85237885703,
+  "skip_rate": 1.171875,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "zeroT6PTAEjipvZuACTh1mbGCqTHgA6i1ped9DcuidX",
+  "version": "4.3.2",
+  "name": "0base.vc \ud83c\uddf0\ud83c\uddf7 | MEV \ud83d\udd25",
+  "activated_stake": 221656.333777552,
+  "skip_rate": 1.7045454545455,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "sCANXAaS1a7yB8jz3USvGNLfd8DSc9r7TNzNSKKPkfY",
+  "version": "4.3.2",
+  "name": "Range",
+  "activated_stake": 101649.81729137401,
+  "skip_rate": 4.3478260869565,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "sce1oTWYVXv7a7Hy2skxREozs5nwkQ4wDT8XJSi5tgE",
+  "version": "4.5.0-alpha.2",
+  "name": "",
+  "activated_stake": 58977.652005706004,
+  "skip_rate": 6.25,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "G3a3iYZKNLbivothF3twqcaTCEvoPb9uJ2bFc9DNKkBQ",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 1324631.0010000002,
+  "skip_rate": 0.33632286995516,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Df16xM2XWzTXEGYxFBXtwXRhCdE6hwBbxS162TyS4r65",
+  "version": "4.3.2",
+  "name": "Bybit Staking",
+  "activated_stake": 1564978.8769810202,
+  "skip_rate": 0.24916943521595,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9pBHfuE19q7PRbupJf8CZAMwv6RHjasdyMN9U9du7Nx2",
+  "version": "26.10.4",
+  "name": "H2O Nodes\ud83d\udca7",
+  "activated_stake": 193531.332536436,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "GREEDkgav1ox1jYyd9Anv6exLqKV2vYnxMw5prGwmNKc",
+  "version": "4.3.2",
+  "name": "GREED Academy - funding education",
+  "activated_stake": 551315.288050172,
+  "skip_rate": 0.74257425742574,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "siidBVew9gpXxjM1y5spQiAyx1dyFrg9m6YjoxrYWbi",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 821408.5328445301,
+  "skip_rate": 1.2237762237762,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "74Xkp2iLXm315h69sFRiCFjmKnaWkMV8W2LgJwPRSgN5",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 169272.872642894,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "EAW9vxqogvdPNapq7QTDpiVTHK6o7begUhPVnf854VTc",
+  "version": "4.3.2",
+  "name": "Solana Qubits",
+  "activated_stake": 117662.85887928601,
+  "skip_rate": 5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2GUnfxZavKoPfS9s3VSEjaWDzB3vNf5RojUhprCS1rSx",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 2499999.93966544,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "8nbE53mcKhy74HLiGZ1q5HRocwiCvgh49csSaHSdtukr",
+  "version": "4.3.2",
+  "name": "Moutai Validator \ud83d\ude80 Performant, Secure and NO Fees",
+  "activated_stake": 115197.39498553601,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "1ggyZGbYtEo1WrV1kmXfnvhPeSPxrYAXoDBeApnszLT",
+  "version": "4.3.2",
+  "name": "Iggyz",
+  "activated_stake": 182100.913504925,
+  "skip_rate": 2.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BR1aTt4ZZUCwWJDkSYf1hqkYJjo7Mb7Ar8iVTkeSwUB8",
+  "version": "4.3.2",
+  "name": "Abacus",
+  "activated_stake": 83900.907438205,
+  "skip_rate": 4.1666666666667,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2jS8AX38m8F9C5juToW1FmTufEbb1DfDzZJj9HSJcWwo",
+  "version": "4.3.2",
+  "name": "0% Fees | Easy 2 Stake | Jito MEV",
+  "activated_stake": 102923.37790976501,
+  "skip_rate": 8.3333333333333,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "nymsGg7ZXcYBwGYKZL8qEHk9PQ8sAkKvnXgUNLPyGDV",
+  "version": "26.10.4",
+  "name": "Hypo Nyms",
+  "activated_stake": 173883.931447871,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "ABC1U4cf9DZMwqy8ktEr4WJj8VHmVBQibbC57gEJthwY",
+  "version": "4.3.2",
+  "name": "algo|stake",
+  "activated_stake": 256898.353465569,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HDRqPft5ioWZnsV2XgNWpoyg9Js6Lnh6TxMSiDG843KD",
+  "version": "0.1.1",
+  "name": "",
+  "activated_stake": 71154.675152718,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "cybi55ebub37HZW9YmRaLh59Lh3kqaLTsEBQwW6vFkC",
+  "version": "4.3.2",
+  "name": "CyberAlex \ud83d\udc51 MEV",
+  "activated_stake": 121328.22471717201,
+  "skip_rate": 3.75,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "8o8wWCYNwPRSCAasp8rYvWuo3Ku1R1i6SEo9j9B6fe5i",
+  "version": "4.3.2",
+  "name": "Sygnum Validators",
+  "activated_stake": 751481.9800319041,
+  "skip_rate": 0.51020408163265,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "dmMwc4RazLHkvDZYrWAfbHQ6cViAvNa5szCJKaiun8S",
+  "version": "4.3.2",
+  "name": "Ded Monkes",
+  "activated_stake": 115110.508871389,
+  "skip_rate": 3.9473684210526,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "tkmaiSoZ3F8MofkQBVWG6JYSCzyN6ioe7ReYXohx3WJ",
+  "version": "4.3.2",
+  "name": "Tokamai",
+  "activated_stake": 111815.071786636,
+  "skip_rate": 3.2608695652174,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HM19KBHDJy93DYEJv4iFayMmCbJ1QVAk2EDG6XDgmnJS",
+  "version": "4.3.2",
+  "name": "Hello Moon",
+  "activated_stake": 731615.839206025,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "JC7bH7HSZoDhwggBXtRF31cVt71WiizY2J6YDDQfG5er",
+  "version": "4.3.2",
+  "name": "Valid Blocks",
+  "activated_stake": 194013.72611455302,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "mythxvB89eT3C1TKwwhsvdHfYq2aoCt2es8vLoDFYyk",
+  "version": "4.3.2",
+  "name": "Mythx",
+  "activated_stake": 72353.050754436,
+  "skip_rate": 9.375,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3BeharBd3j4sKQp7Qze27JLQLd9AEEwGTX9TC7dXYSNw",
+  "version": "4.3.2",
+  "name": "Dragon Trust Stake",
+  "activated_stake": 96292.90871,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CTwsruptUccEtZGNxBDbuusHYxkBX3P6ndrxVjSG213y",
+  "version": "4.3.2",
+  "name": "CryptoVik",
+  "activated_stake": 150233.85327003602,
+  "skip_rate": 2.6785714285714,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "23SUe5fzmLws1M58AnGnvnUBRUKJmzCpnFQwv4M4b9Er",
+  "version": "4.3.2",
+  "name": "Stakin by The Tie",
+  "activated_stake": 380939.798889429,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "scs2Ra91pMbvqFAP7uitrN5U25SoyBTqZgBbhpVMJko",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 58887.62977848601,
+  "skip_rate": 5.3571428571429,
+  "delinquent": false,
+  "is_jito": false
+ },
+ {
+  "identity": "spcti6GQVvinbtHU9UAkbXhjTcBJaba1NVx4tmK4M5F",
+  "version": "4.3.2",
+  "name": "Staker Space",
+  "activated_stake": 225197.78421546202,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "bkpk9KVsDRfrArzzmkJ9mPEvbXfQxczzQYR3QMGiR8Z",
+  "version": "4.3.2",
+  "name": "Backpack",
+  "activated_stake": 590028.123552029,
+  "skip_rate": 0.81521739130435,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "97jbhVBYcSmwGXjrx5PPWXucDsVBqwyoQ6rzP3B6eeMt",
+  "version": "26.10.4",
+  "name": "anarcheuz",
+  "activated_stake": 201804.430472356,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "4SsMncJdtKiUcDtukkX15mqei7WiuQ9yvRtQrQW4reWC",
+  "version": "4.3.2",
+  "name": "Quicknode",
+  "activated_stake": 649246.9900420851,
+  "skip_rate": 0.66964285714286,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CW9C7HBwAMgqNdXkNgFg9Ujr3edR2Ab9ymEuQnVacd1A",
+  "version": "4.3.2",
+  "name": "Coinbase 02",
+  "activated_stake": 1589100.534115601,
+  "skip_rate": 0.25684931506849,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3cZSHGfNdaULpFAvGbWbxpVwzXB4gHdk8NFucPNR5pgA",
+  "version": "4.3.2",
+  "name": "Ghost",
+  "activated_stake": 663989.8642315371,
+  "skip_rate": 0.5952380952381,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "MFLKSo4XDfrBf4FByx76zYM2dXSWcigag7ec2bCHTR4",
+  "version": "4.3.2",
+  "name": "The Mindfolk",
+  "activated_stake": 83947.689392838,
+  "skip_rate": 8.75,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5zm9g3zgAPWzX3wmUB2JtTkcwCqe74NWsTmt5wLFwCKK",
+  "version": "4.3.2",
+  "name": "Allied Validator",
+  "activated_stake": 188351.237686222,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "icex1C6pnZxznQWiHZZANjGU8nZ8kNquFnjyY7XXrXE",
+  "version": "4.3.2",
+  "name": "BrewlabsHQ",
+  "activated_stake": 252544.869048772,
+  "skip_rate": 1.4705882352941,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "G9vCpJUUSpEm4zPwzSNpDmZ8MGwLEbiSLV59EBzCGvzM",
+  "version": "4.3.2",
+  "name": "AP Node",
+  "activated_stake": 532035.094706808,
+  "skip_rate": 2.1505376344086,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5marvipGzf98hxnoJFXsZbGHSXcEQ3yRGJ4ps7D3V4ou",
+  "version": "4.3.2",
+  "name": "MARVEL+MEV!",
+  "activated_stake": 201700.45326715402,
+  "skip_rate": 1.9230769230769,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Lake8NXDThihebhxS3Js7mFnj9fthmus93zEdsFNrsL",
+  "version": "26.10.4",
+  "name": "LakeStake",
+  "activated_stake": 165195.516183764,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "4Kbcyn7JVPAWLRLPsNGTPmcNMvCkLTw51ZLRhqsUC6jP",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 174293.109617578,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Ninja1spj6n9t5hVYgF3PdnYz2PLnkt7rvaw3firmjs",
+  "version": "4.3.2",
+  "name": "Shinobi Systems \ud83d\ude80 stakeview.app",
+  "activated_stake": 1376736.4164155761,
+  "skip_rate": 0.31645569620253,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "EXckihF3qmguH5znjhfzLvHsbk2E3nEW2DqNh4MMnDMm",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 1251331.744033595,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "ADjyeNzWd8yhEjCVyAqT87eqoyGRbimERQsNhFQcXjop",
+  "version": "4.3.2",
+  "name": "InfiniteSOL",
+  "activated_stake": 96494.84873840201,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "mXv18ov8qCiQGs3ieoen981LdgZzYJjJak6reK6fpNC",
+  "version": "4.3.2",
+  "name": "MX Validator",
+  "activated_stake": 214720.494021026,
+  "skip_rate": 1.875,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "CfgRXmp1LEYr97EaT2RyoL2cSvtWgJh52Bes89RxVSoW",
+  "version": "4.3.2",
+  "name": "Blockman",
+  "activated_stake": 1395452.860785243,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "6gnbmed7kzwQVQ7ghsjgEuCoYmGeWciV2qCwni6WS6HU",
+  "version": "4.3.2",
+  "name": "Capital Alliance \ud83d\udd25",
+  "activated_stake": 141322.908470846,
+  "skip_rate": 3.4090909090909,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "EBk678aQvc3cUkfGyoehfw21JQfJXjmWuBeopYc89RSV",
+  "version": "4.3.2",
+  "name": "\u4f5b\u91d1\u75af Solana Chinese Community",
+  "activated_stake": 100584.842456611,
+  "skip_rate": 5.8823529411765,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "shftkxnsXmqAkmLgz9Mn7bNB5Fr6mKgFc58kFHfVikj",
+  "version": "4.3.2",
+  "name": "blueshift",
+  "activated_stake": 3634025.2214527964,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BFmqBsaGjeYA7gHpReKmnVkRyhqiMmHoR9ttv1crWmzy",
+  "version": "26.10.4",
+  "name": "",
+  "activated_stake": 831650.069659602,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "SyndicAgdEphcy5xhAKZAomTYhcF8xhC7za2UD9xeug",
+  "version": "4.3.2",
+  "name": "Syndica",
+  "activated_stake": 156384.929854437,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "5ghoFEVrsXeAPB6SUmBpZ2xq3KvHEjNMeSaBnxEBXkHV",
+  "version": "4.3.2",
+  "name": "DarkTower",
+  "activated_stake": 52450.412523873005,
+  "skip_rate": 9.375,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9rkJMARqK6VBkcxGfKBAwnA44gPAfGxPbPsfsggFNDSQ",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 4723673.249360947,
+  "skip_rate": 0.23980815347722,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "65pHd5P2VrehonT1cdJ2JUnq5wi3WUgfL3A8RhYH7Kg7",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 47772.425429164,
+  "skip_rate": 8.3333333333333,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "privaEdSEmnMPGPoQACUkcDGkFBbTArVvsEGd7C5wUM",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 1324631.0010000002,
+  "skip_rate": 0.32751091703057,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "GiYSnFRrXrmkJMC54A1j3K4xT6ZMfx1NSThEe5X2WpDe",
+  "version": "4.3.2",
+  "name": "MonkeDAO",
+  "activated_stake": 216308.71312743702,
+  "skip_rate": 1.3888888888889,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2mDrrmhSzpSyaF12izGk8hnFjtKCGeCFPwQHpRiJDby2",
+  "version": "4.3.2",
+  "name": "S4Mar",
+  "activated_stake": 275115.368768214,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "mALL2W6DUgDDtcyurC9v5YTF2CMMeuRwPBkf6tEoG3y",
+  "version": "4.3.2",
+  "name": "mallow",
+  "activated_stake": 98813.072663827,
+  "skip_rate": 6.6666666666667,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "te1ee9rGf369wxYQkuxkvuvMuTJ9cksgZySmNUF8rNY",
+  "version": "4.3.2",
+  "name": "Telemetry",
+  "activated_stake": 52785.521421372,
+  "skip_rate": 4.6875,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "BeaCHioStqCEFDFxKwAEzyrUPYxqnBPhJ98gDKeEiTPb",
+  "version": "26.10.4",
+  "name": "Solana Beach Validator",
+  "activated_stake": 633154.294652923,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "B94PGWcxE9iEDov8sZobTkqEY96Yb5gfcsYWSWpQxh6S",
+  "version": "4.3.2",
+  "name": "SUNREN",
+  "activated_stake": 50994.410818100005,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "EN5F2BU5juUEWr9zRNNqKuQMi9zBUY1YLPHV5EyMrvnW",
+  "version": "4.3.2",
+  "name": "SunshineVR",
+  "activated_stake": 117965.75781962,
+  "skip_rate": 2.7777777777778,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "7pR7t5axFfkg2VZB1uAuFNUvpAeowq2v15J4gw5MmHTB",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 43151.768059697,
+  "skip_rate": 7.5,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "UZBmptMjMSQEPKm4WyUkJeAuvZSqTuNK3cQCKFqJcXT",
+  "version": "4.3.2",
+  "name": "\ud83c\udf00Quantum Private!",
+  "activated_stake": 24837.221695581,
+  "skip_rate": 9.375,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "qZMH9GWnnBkx7aM1h98iKSv2Lz5N78nwNSocAxDQrbP",
+  "version": "4.3.2",
+  "name": "Spectrum Staking | 0% fees",
+  "activated_stake": 277481.79369242,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "ark1hdnnfmusE24wGHkyVG1gdRCqfmXs9drasDAdABZ",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 42390.241697884005,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "2Df1aLCRYi3J1X24GXmASL4hjrZLHnvEF32KFWGJfR9E",
+  "version": "4.3.2",
+  "name": "P2P.org Turbo",
+  "activated_stake": 543302.7403933321,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "FNKgX9dYUhYQFRTM9bkeKoRpsyEtZGNMxbdQLDzfqB8a",
+  "version": "4.3.2",
+  "name": "Coinbase 04",
+  "activated_stake": 3651308.575941196,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "JD549HsbJHeEKKUrKgg4Fj2iyv2RGjsV7NTZjZUrHybB",
+  "version": "26.10.4",
+  "name": "Forward Industries",
+  "activated_stake": 6607875.845254433,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "9xcXe4WRAfbVoVgQmFD5xgFHioL9dD7c74pQZ7PeczT",
+  "version": "4.3.2",
+  "name": "Raiku",
+  "activated_stake": 351476.994224152,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "Va1idLRtYEtVFJFsvz8vtt1uCJgea4Q1zi2Rh3eraJh",
+  "version": "4.3.2",
+  "name": "validator.com",
+  "activated_stake": 630715.684758891,
+  "skip_rate": 0.63559322033898,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "3ytgyJXpm3teGLwkHqp9h2qqYNpY4Z1QpWAeVpz79gpJ",
+  "version": "4.3.2",
+  "name": "",
+  "activated_stake": 1006663.1369898481,
+  "skip_rate": 0.38659793814433,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "GQiWnDYrzHMALWG9avt5FCu1wisAQHjGY5ve7GMBiPEe",
+  "version": "4.3.2",
+  "name": "Nam-dok-mai \ud83e\udd11 stake-earn-repeat",
+  "activated_stake": 118209.81852621501,
+  "skip_rate": 3.75,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "F6kVwubXEfZZo6e4Kozrtg7WoWk5wTRmrC8pwoxSLa7S",
+  "version": "4.3.2",
+  "name": "Go by Jupiter",
+  "activated_stake": 100137.174404182,
+  "skip_rate": 4.6875,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "mrgn2vUPsPynMcNh7cTbfrX8VAdgxEYwS7ZDHNYA9Ry",
+  "version": "26.10.4",
+  "name": "Project 0 Horizon",
+  "activated_stake": 109166.278541041,
+  "skip_rate": 0,
+  "delinquent": false,
+  "is_jito": true
+ },
+ {
+  "identity": "HLnodbYkL5PFA8hjAZDkm5pGzV7eLTvcs671AW2L6St9",
+  "version": "4.3.2",
+  "name": "PoH PoS",
+  "activated_stake": 1235557.357554117,
+  "skip_rate": 0.42735042735043,
+  "delinquent": false,
+  "is_jito": true
+ }
+]

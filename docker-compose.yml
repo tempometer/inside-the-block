@@ -1,0 +1,10 @@
+services:
+  itb:
+    build: .
+    # default: DRY walk (build-only, no sends). Live campaign (cap-guarded):
+    #   docker compose run itb python itb_campaign.py --live
+    command: python itb_campaign.py --dry
+    volumes:
+      - ./keys:/app/keys      # keypair(s), NEVER committed (throwaway, funded to the cap)
+      - ./data:/app/data      # raw run logs + verify artifacts (shipped data included)
+      - ./verify-out:/app/verify-out  # fresh verification/analysis output persists on the host across compose runs

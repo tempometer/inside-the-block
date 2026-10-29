@@ -1,0 +1,188 @@
+{
+ "agave-4.3.2|JITO": [
+  {
+   "identity": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+   "name": "Figment",
+   "stake_sol": 17096229.98475625,
+   "skip": 0,
+   "ver": "4.3.2"
+  },
+  {
+   "identity": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+   "name": "Helius",
+   "stake_sol": 16022777.902436493,
+   "skip": 0.034831069313828,
+   "ver": "4.3.2"
+  },
+  {
+   "identity": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+   "name": "binance staking",
+   "stake_sol": 12572396.114967449,
+   "skip": 0.22737608003638,
+   "ver": "4.3.2"
+  },
+  {
+   "identity": "E1r4Psq84tHfQ6aPTvvDka4U3u8zPVD7gEUrH25RdxHL",
+   "name": "Bitwise Onchain Solutions",
+   "stake_sol": 10882510.649488417,
+   "skip": 0.07473841554559,
+   "ver": "4.3.2"
+  }
+ ],
+ "FD-date-version|JITO": [
+  {
+   "identity": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+   "name": "Jupiter",
+   "stake_sol": 9724045.661416186,
+   "skip": 0,
+   "ver": "26.10.4"
+  },
+  {
+   "identity": "EvnRmnMrd69kFdbLMxWkTn1icZ7DCceRhvmb2SJXqDo4",
+   "name": "Everstake",
+   "stake_sol": 7782538.803998725,
+   "skip": 0,
+   "ver": "26.10.4"
+  },
+  {
+   "identity": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+   "name": "Galaxy",
+   "stake_sol": 7037301.0909082135,
+   "skip": 0,
+   "ver": "26.10.4"
+  },
+  {
+   "identity": "Awes4Tr6TX8JDzEhCZY2QVNimT6iD1zWHzf1vNyGvpLM",
+   "name": "Staking Facilities | MEV \ud83d\udd25",
+   "stake_sol": 7003144.982092444,
+   "skip": 0,
+   "ver": "26.10.4"
+  }
+ ],
+ "agave-4.3.2|TPU": [
+  {
+   "identity": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+   "name": "",
+   "stake_sol": 1875000.9534662,
+   "skip": 0.2212389380531,
+   "ver": "4.3.2"
+  },
+  {
+   "identity": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+   "name": "",
+   "stake_sol": 1207979.324911175,
+   "skip": 0.375,
+   "ver": "4.3.2"
+  },
+  {
+   "identity": "Diman2GphWLwECE3swjrAEAJniezpYLxK1edUydiDZau",
+   "name": "diman",
+   "stake_sol": 345790.72410778,
+   "skip": 0,
+   "ver": "4.3.2"
+  },
+  {
+   "identity": "rsbp8zMHbGCpLoRktmsjspYv77VcjxAzH1KxPCD9BiU",
+   "name": "Albert is Great",
+   "stake_sol": 209351.602022456,
+   "skip": 0,
+   "ver": "4.3.2"
+  }
+ ],
+ "agave-4.5.0-alpha|TPU": [
+  {
+   "identity": "sce2zXNjLpPMcSCATTrLiQhAAvHNNMKypTFVtg2H37U",
+   "name": "",
+   "stake_sol": 59024.397009422006,
+   "skip": 5.7692307692308,
+   "ver": "4.5.0-alpha.2"
+  },
+  {
+   "identity": "sce1oTWYVXv7a7Hy2skxREozs5nwkQ4wDT8XJSi5tgE",
+   "name": "",
+   "stake_sol": 58977.652005706004,
+   "skip": 6.25,
+   "ver": "4.5.0-alpha.2"
+  },
+  {
+   "identity": "sce3TfT81rxYYcdbP1kBFMcTK3ZBc8hvHVeXD6WLSzE",
+   "name": "",
+   "stake_sol": 58635.765146753,
+   "skip": 0,
+   "ver": "4.5.0-alpha.2"
+  },
+  {
+   "identity": "mds2fZEpJP688PqJHvfLxGyf2VFrcNkvjuUxNYCwjrq",
+   "name": "",
+   "stake_sol": 57895.685282354,
+   "skip": 0,
+   "ver": "4.5.0-alpha.2"
+  }
+ ],
+ "ver:4.4.0-beta.1|TPU": [
+  {
+   "identity": "mds4GEuiSgQRqveGyktWpETBFCb4AS2wDnhqwLHcT6Z",
+   "name": "",
+   "stake_sol": 342111.907528528,
+   "skip": 1.6129032258065,
+   "ver": "4.4.0-beta.1"
+  },
+  {
+   "identity": "scb1Z7du8NVSaHFXsafSjRdXr6xBjWR3iugikL739Y1",
+   "name": "",
+   "stake_sol": 58996.50802889901,
+   "skip": 10.714285714286,
+   "ver": "4.4.0-beta.1"
+  },
+  {
+   "identity": "scb2TYPmwHgKxXJaJNq6gHKwYkVyLKx58hz9RbCKZZR",
+   "name": "",
+   "stake_sol": 58906.910239443,
+   "skip": 5.3571428571429,
+   "ver": "4.4.0-beta.1"
+  }
+ ],
+ "ver:0.1.1|JITO": [
+  {
+   "identity": "AHZxzLeRGRfNVFrCmP58iJgEwbcXyZeAkZ32CmbfEmYR",
+   "name": "",
+   "stake_sol": 299997.99643426004,
+   "skip": 0,
+   "ver": "0.1.1"
+  },
+  {
+   "identity": "HDRqPft5ioWZnsV2XgNWpoyg9Js6Lnh6TxMSiDG843KD",
+   "name": "",
+   "stake_sol": 71154.675152718,
+   "skip": 0,
+   "ver": "0.1.1"
+  }
+ ],
+ "FD-date-version|TPU": [
+  {
+   "identity": "pebb1eQXvcuQfXkeyYjdoBVufKHwdKGL3G37GUts8Db",
+   "name": "Pebble",
+   "stake_sol": 149011.397058451,
+   "skip": 0,
+   "ver": "26.10.4"
+  }
+ ],
+ "agave-4.5.0-alpha|JITO": [
+  {
+   "identity": "soLStaCk5TiGCpeLKa9Fvv6f5JQGMa6S3uhLh826e9N",
+   "name": "SolStack by Corvus Labs",
+   "stake_sol": 259148.84642628103,
+   "skip": 2.1739130434783,
+   "ver": "4.5.0-alpha.2"
+  }
+ ],
+ "ver:unknown|JITO": [
+  {
+   "identity": "9GHvMeJ4ZWuAX6sDGscFL1TBMszx2EehnrcTVUy4MZJQ",
+   "name": "",
+   "stake_sol": 234442.50770311602,
+   "skip": 88.725490196078,
+   "ver": "unknown"
+  }
+ ]
+}

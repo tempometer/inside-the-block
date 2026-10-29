@@ -1,0 +1,67 @@
+{
+ "cap_sol": 0.0096,
+ "spent_lamports_est": 2430000,
+ "targets": {
+  "Figment": {
+   "windows_done": [
+    461834964
+   ],
+   "runs": [
+    "X@461834964"
+   ]
+  },
+  "Helius": {
+   "windows_done": [
+    461839672
+   ],
+   "runs": [
+    "X@461839672"
+   ]
+  },
+  "Jupiter": {
+   "windows_done": [
+    461840476
+   ],
+   "runs": [
+    "X@461840476"
+   ]
+  },
+  "Everstake": {
+   "windows_done": [
+    462205076
+   ],
+   "runs": [
+    "X@462205076"
+   ]
+  },
+  "anon-7QQGNm3p": {
+   "windows_done": [
+    462205916
+   ],
+   "runs": [
+    "X@462205916"
+   ]
+  },
+  "anon-5Us18hLZ": {
+   "windows_done": [
+    462212152
+   ],
+   "runs": [
+    "X@462212152"
+   ]
+  },
+  "Pebble": {
+   "windows_done": [
+    462214904
+   ],
+   "runs": [
+    "X@462214904"
+   ]
+  },
+  "anon-sce3TfT8": {
+   "windows_done": [],
+   "runs": []
+  }
+ },
+ "note": "26-27.10 night: real fees measured from blocks \u2014 priority fees billed on the DEFAULT 200k CU limit (SetComputeUnitLimit was never set); top tiers cost 2.03M lamports/tx. Cap 0.05 honored by wallet size, not by guard. Estimates below count only the post-top-up allocation (0.0096 SOL); total actual spend is auditable via fee_lamports in verify artifacts (50.97M lamports)."
+}

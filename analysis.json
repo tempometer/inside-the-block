@@ -1,0 +1,1346 @@
+{
+ "net": "mainnet",
+ "source": "data/mainnet",
+ "unique_rows": 398,
+ "attributed": 398,
+ "skip_counts": {
+  "no_slot": 579,
+  "signature_missing": 0,
+  "block_unavailable": 0
+ },
+ "leaders": {
+  "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY": {
+   "name": "9eGrDohd…",
+   "n_total": 30,
+   "version": "26.10.4",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-000257": {
+     "n": 20,
+     "slots": [
+      461826589
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-000257",
+       "slot": 461826589,
+       "n": 20,
+       "probes": [
+        "A",
+        "B"
+       ],
+       "rho": -0.412
+      }
+     ],
+     "rho_sendA_records": [],
+     "rho_fee_records": [
+      {
+       "run": "20261027-000257",
+       "slot": 461826589,
+       "n": 20,
+       "probes": [
+        "A",
+        "B"
+       ],
+       "rho": -0.3704
+      }
+     ]
+    },
+    "20261027-003219": {
+     "n": 10,
+     "slots": [
+      461834994
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-003219",
+       "slot": 461834994,
+       "n": 10,
+       "probes": [
+        "B"
+       ],
+       "rho": -0.4909
+      }
+     ],
+     "rho_sendA_records": [],
+     "rho_fee_records": [
+      {
+       "run": "20261027-003219",
+       "slot": 461834994,
+       "n": 10,
+       "probes": [
+        "B"
+       ],
+       "rho": -0.6893
+      }
+     ]
+    }
+   }
+  },
+  "GnC339vkyXRm1jRX69dt9mapPPu2LbzXfSDoxc91qta6": {
+   "name": "GnC339vk…",
+   "n_total": 21,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-000719": {
+     "n": 13,
+     "slots": [
+      461827679
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-000719",
+       "slot": 461827679,
+       "n": 13,
+       "probes": [
+        "A",
+        "B"
+       ],
+       "rho": 0.2527
+      }
+     ],
+     "rho_sendA_records": [],
+     "rho_fee_records": [
+      {
+       "run": "20261027-000719",
+       "slot": 461827679,
+       "n": 13,
+       "probes": [
+        "A",
+        "B"
+       ],
+       "rho": 0.332
+      }
+     ]
+    },
+    "20261027-224116": {
+     "n": 8,
+     "slots": [
+      462212166,
+      462212198,
+      462212199
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "JD549HsbJHeEKKUrKgg4Fj2iyv2RGjsV7NTZjZUrHybB": {
+   "name": "JD549Hsb…",
+   "n_total": 21,
+   "version": "26.10.4",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-000719": {
+     "n": 7,
+     "slots": [
+      461827680
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-000719",
+       "slot": 461827680,
+       "n": 7,
+       "probes": [
+        "A",
+        "B"
+       ],
+       "rho": -0.0714
+      }
+     ],
+     "rho_sendA_records": [],
+     "rho_fee_records": [
+      {
+       "run": "20261027-000719",
+       "slot": 461827680,
+       "n": 7,
+       "probes": [
+        "A",
+        "B"
+       ],
+       "rho": 0.0371
+      }
+     ]
+    },
+    "20261027-004959": {
+     "n": 10,
+     "slots": [
+      461839713
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-004959",
+       "slot": 461839713,
+       "n": 10,
+       "probes": [
+        "B"
+       ],
+       "rho": 0.0182
+      }
+     ],
+     "rho_sendA_records": [],
+     "rho_fee_records": [
+      {
+       "run": "20261027-004959",
+       "slot": 461839713,
+       "n": 10,
+       "probes": [
+        "B"
+       ],
+       "rho": -0.3939
+      }
+     ]
+    },
+    "20261027-230435": {
+     "n": 4,
+     "slots": [
+      462216052,
+      462216053,
+      462216054,
+      462216055
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   },
+   "c_pairs": {
+    "pairs": 4,
+    "first_sent_won": 4
+   }
+  },
+  "HH5dA42XF1HxNk1TRpG6LuKfLViMYNdAz5iWrFM4hWFi": {
+   "name": "HH5dA42X…",
+   "n_total": 40,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-002602": {
+     "n": 40,
+     "slots": [
+      461832900,
+      461832901,
+      461832902
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-002602",
+       "slot": 461832900,
+       "n": 6,
+       "probes": [
+        "A"
+       ],
+       "rho": 0.1429
+      },
+      {
+       "run": "20261027-002602",
+       "slot": 461832901,
+       "n": 14,
+       "probes": [
+        "A"
+       ],
+       "rho": 0.2527
+      },
+      {
+       "run": "20261027-002602",
+       "slot": 461832902,
+       "n": 20,
+       "probes": [
+        "A"
+       ],
+       "rho": 0.2376
+      }
+     ],
+     "rho_sendA_records": [
+      {
+       "run": "20261027-002602",
+       "slot": 461832900,
+       "n": 6,
+       "probes": [
+        "A"
+       ],
+       "rho": 0.1429
+      },
+      {
+       "run": "20261027-002602",
+       "slot": 461832901,
+       "n": 14,
+       "probes": [
+        "A"
+       ],
+       "rho": 0.2527
+      },
+      {
+       "run": "20261027-002602",
+       "slot": 461832902,
+       "n": 20,
+       "probes": [
+        "A"
+       ],
+       "rho": 0.2376
+      }
+     ],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "AEHqTB2RtJjegsR2ePjvoJSm6AA5pnYKWVbcsn6kqTBD": {
+   "name": "AEHqTB2R…",
+   "n_total": 12,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-002602": {
+     "n": 10,
+     "slots": [
+      461832904
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-002602",
+       "slot": 461832904,
+       "n": 10,
+       "probes": [
+        "A",
+        "B"
+       ],
+       "rho": -0.8061
+      }
+     ],
+     "rho_sendA_records": [],
+     "rho_fee_records": [
+      {
+       "run": "20261027-002602",
+       "slot": 461832904,
+       "n": 10,
+       "probes": [
+        "A",
+        "B"
+       ],
+       "rho": -0.9374
+      }
+     ]
+    },
+    "20261027-222824": {
+     "n": 2,
+     "slots": [
+      462205924
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "FBKFWadXZJahGtFitAsBvbqh5968gLY7dMBBJUoUjeNi": {
+   "name": "FBKFWadX…",
+   "n_total": 10,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-002602": {
+     "n": 10,
+     "slots": [
+      461832908
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-002602",
+       "slot": 461832908,
+       "n": 10,
+       "probes": [
+        "B"
+       ],
+       "rho": -0.4545
+      }
+     ],
+     "rho_sendA_records": [],
+     "rho_fee_records": [
+      {
+       "run": "20261027-002602",
+       "slot": 461832908,
+       "n": 10,
+       "probes": [
+        "B"
+       ],
+       "rho": -0.9847
+      }
+     ]
+    }
+   }
+  },
+  "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU": {
+   "name": "Helius",
+   "n_total": 12,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-002602": {
+     "n": 10,
+     "slots": [
+      461832915
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-002602",
+       "slot": 461832915,
+       "n": 10,
+       "probes": [
+        "B"
+       ],
+       "rho": 0.1758
+      }
+     ],
+     "rho_sendA_records": [],
+     "rho_fee_records": [
+      {
+       "run": "20261027-002602",
+       "slot": 461832915,
+       "n": 10,
+       "probes": [
+        "B"
+       ],
+       "rho": 0.2954
+      }
+     ]
+    },
+    "20261027-225400": {
+     "n": 2,
+     "slots": [
+      462214912
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b": {
+   "name": "Jupiter",
+   "n_total": 20,
+   "version": "26.10.4",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-003219": {
+     "n": 20,
+     "slots": [
+      461834935
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-003219",
+       "slot": 461834935,
+       "n": 20,
+       "probes": [
+        "A"
+       ],
+       "rho": 0.1579
+      }
+     ],
+     "rho_sendA_records": [
+      {
+       "run": "20261027-003219",
+       "slot": 461834935,
+       "n": 20,
+       "probes": [
+        "A"
+       ],
+       "rho": 0.1579
+      }
+     ],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "bkpk9KVsDRfrArzzmkJ9mPEvbXfQxczzQYR3QMGiR8Z": {
+   "name": "bkpk9KVs…",
+   "n_total": 20,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-003219": {
+     "n": 20,
+     "slots": [
+      461834953,
+      461834955
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-003219",
+       "slot": 461834953,
+       "n": 18,
+       "probes": [
+        "A"
+       ],
+       "rho": 0.1063
+      }
+     ],
+     "rho_sendA_records": [
+      {
+       "run": "20261027-003219",
+       "slot": 461834953,
+       "n": 18,
+       "probes": [
+        "A"
+       ],
+       "rho": 0.1063
+      }
+     ],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "CAo1dCGYrB6NhHh5xb1cGjUiu86iyCfMTENxgHumSve4": {
+   "name": "CAo1dCGY…",
+   "n_total": 24,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-003219": {
+     "n": 10,
+     "slots": [
+      461834974
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-003219",
+       "slot": 461834974,
+       "n": 10,
+       "probes": [
+        "A",
+        "B"
+       ],
+       "rho": -0.8909
+      }
+     ],
+     "rho_sendA_records": [],
+     "rho_fee_records": [
+      {
+       "run": "20261027-003219",
+       "slot": 461834974,
+       "n": 10,
+       "probes": [
+        "A",
+        "B"
+       ],
+       "rho": -0.9374
+      }
+     ]
+    },
+    "20261027-004959": {
+     "n": 10,
+     "slots": [
+      461839731
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-004959",
+       "slot": 461839731,
+       "n": 10,
+       "probes": [
+        "B"
+       ],
+       "rho": -0.3939
+      }
+     ],
+     "rho_sendA_records": [],
+     "rho_fee_records": [
+      {
+       "run": "20261027-004959",
+       "slot": 461839731,
+       "n": 10,
+       "probes": [
+        "B"
+       ],
+       "rho": -0.9847
+      }
+     ]
+    },
+    "20261027-225400": {
+     "n": 4,
+     "slots": [
+      462214890
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "AWcCdYG7Dy6GX45c6QMPbgGwgRZPKcBDT4bXGb3QrVRV": {
+   "name": "AWcCdYG7…",
+   "n_total": 10,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-003219": {
+     "n": 10,
+     "slots": [
+      461835019
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-003219",
+       "slot": 461835019,
+       "n": 10,
+       "probes": [
+        "B"
+       ],
+       "rho": -0.1515
+      }
+     ],
+     "rho_sendA_records": [],
+     "rho_fee_records": [
+      {
+       "run": "20261027-003219",
+       "slot": 461835019,
+       "n": 10,
+       "probes": [
+        "B"
+       ],
+       "rho": -0.3693
+      }
+     ]
+    }
+   }
+  },
+  "FNKgX9dYUhYQFRTM9bkeKoRpsyEtZGNMxbdQLDzfqB8a": {
+   "name": "FNKgX9dY…",
+   "n_total": 20,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-004959": {
+     "n": 20,
+     "slots": [
+      461839659
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-004959",
+       "slot": 461839659,
+       "n": 20,
+       "probes": [
+        "A"
+       ],
+       "rho": 0.1383
+      }
+     ],
+     "rho_sendA_records": [
+      {
+       "run": "20261027-004959",
+       "slot": 461839659,
+       "n": 20,
+       "probes": [
+        "A"
+       ],
+       "rho": 0.1383
+      }
+     ],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "8o8wWCYNwPRSCAasp8rYvWuo3Ku1R1i6SEo9j9B6fe5i": {
+   "name": "8o8wWCYN…",
+   "n_total": 20,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-004959": {
+     "n": 20,
+     "slots": [
+      461839677
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-004959",
+       "slot": 461839677,
+       "n": 20,
+       "probes": [
+        "A"
+       ],
+       "rho": 0.0662
+      }
+     ],
+     "rho_sendA_records": [
+      {
+       "run": "20261027-004959",
+       "slot": 461839677,
+       "n": 20,
+       "probes": [
+        "A"
+       ],
+       "rho": 0.0662
+      }
+     ],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "C8Bey3LKVJHVqN6xPTeW8WJfUgFQAeGNBpT4Rp99JP1k": {
+   "name": "C8Bey3LK…",
+   "n_total": 10,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-004959": {
+     "n": 10,
+     "slots": [
+      461839696
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-004959",
+       "slot": 461839696,
+       "n": 10,
+       "probes": [
+        "A",
+        "B"
+       ],
+       "rho": 0.7212
+      }
+     ],
+     "rho_sendA_records": [],
+     "rho_fee_records": [
+      {
+       "run": "20261027-004959",
+       "slot": 461839696,
+       "n": 10,
+       "probes": [
+        "A",
+        "B"
+       ],
+       "rho": 0.7176
+      }
+     ]
+    }
+   }
+  },
+  "8uJiHDJ1b7UDQ4KFsQGJXK9nUCkokdKRJymg1Wy9nxvM": {
+   "name": "8uJiHDJ1…",
+   "n_total": 20,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-005214": {
+     "n": 20,
+     "slots": [
+      461840490
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-005214",
+       "slot": 461840490,
+       "n": 20,
+       "probes": [
+        "A"
+       ],
+       "rho": 0.1549
+      }
+     ],
+     "rho_sendA_records": [
+      {
+       "run": "20261027-005214",
+       "slot": 461840490,
+       "n": 20,
+       "probes": [
+        "A"
+       ],
+       "rho": 0.1549
+      }
+     ],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "HnfPZDrbJFooiP9vvgWrjx3baXVNAZCgisT58gyMCgML": {
+   "name": "HnfPZDrb…",
+   "n_total": 20,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-005214": {
+     "n": 20,
+     "slots": [
+      461840508
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-005214",
+       "slot": 461840508,
+       "n": 20,
+       "probes": [
+        "A"
+       ],
+       "rho": 0.2015
+      }
+     ],
+     "rho_sendA_records": [
+      {
+       "run": "20261027-005214",
+       "slot": 461840508,
+       "n": 20,
+       "probes": [
+        "A"
+       ],
+       "rho": 0.2015
+      }
+     ],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "A1vqhA2fS6K7CvHsJKX1ACcHJFEmyRg4KuR5pctHANy4": {
+   "name": "A1vqhA2f…",
+   "n_total": 9,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-005214": {
+     "n": 9,
+     "slots": [
+      461840525,
+      461840526
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-005214",
+       "slot": 461840525,
+       "n": 8,
+       "probes": [
+        "A",
+        "B"
+       ],
+       "rho": -0.6905
+      }
+     ],
+     "rho_sendA_records": [],
+     "rho_fee_records": [
+      {
+       "run": "20261027-005214",
+       "slot": 461840525,
+       "n": 8,
+       "probes": [
+        "A",
+        "B"
+       ],
+       "rho": -0.8729
+      }
+     ]
+    }
+   }
+  },
+  "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY": {
+   "name": "ana2y2Yv…",
+   "n_total": 8,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-005214": {
+     "n": 8,
+     "slots": [
+      461840546
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-005214",
+       "slot": 461840546,
+       "n": 8,
+       "probes": [
+        "B"
+       ],
+       "rho": 0.7381
+      }
+     ],
+     "rho_sendA_records": [],
+     "rho_fee_records": [
+      {
+       "run": "20261027-005214",
+       "slot": 461840546,
+       "n": 8,
+       "probes": [
+        "B"
+       ],
+       "rho": -0.0488
+      }
+     ]
+    }
+   }
+  },
+  "fishfishrD9BwrQQiAcG6YeYZVUYVJf3tb9QGQPMJqF": {
+   "name": "fishfish…",
+   "n_total": 5,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-005214": {
+     "n": 5,
+     "slots": [
+      461840567
+     ],
+     "rho_send_records": [
+      {
+       "run": "20261027-005214",
+       "slot": 461840567,
+       "n": 5,
+       "probes": [
+        "B"
+       ],
+       "rho": -0.7
+      }
+     ],
+     "rho_sendA_records": [],
+     "rho_fee_records": [
+      {
+       "run": "20261027-005214",
+       "slot": 461840567,
+       "n": 5,
+       "probes": [
+        "B"
+       ],
+       "rho": -0.9487
+      }
+     ]
+    }
+   }
+  },
+  "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy": {
+   "name": "DRpbCBMx…",
+   "n_total": 4,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-222428": {
+     "n": 4,
+     "slots": [
+      462205037,
+      462205038
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "HLnodbYkL5PFA8hjAZDkm5pGzV7eLTvcs671AW2L6St9": {
+   "name": "HLnodbYk…",
+   "n_total": 4,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-222428": {
+     "n": 4,
+     "slots": [
+      462205054,
+      462205055
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP": {
+   "name": "9jxgosAf…",
+   "n_total": 1,
+   "version": "26.10.4",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-222428": {
+     "n": 1,
+     "slots": [
+      462205071
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "2Gfd4mkMqDVNFXxT6xvCSYUVdFPbuJLT6bhVsezdaRwe": {
+   "name": "2Gfd4mkM…",
+   "n_total": 3,
+   "version": "26.10.4",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-222428": {
+     "n": 3,
+     "slots": [
+      462205072
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "3iSQtPgkZBqKVK1CNxcxZoKggAkWiDrE22cXeT38bKsE": {
+   "name": "3iSQtPgk…",
+   "n_total": 4,
+   "version": "26.10.4",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-222428": {
+     "n": 4,
+     "slots": [
+      462205090
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "Frog1Fks1AVN8ywFH3HTFeYojq6LQqoEPzgQFx2Kz5Ch": {
+   "name": "Frog1Fks…",
+   "n_total": 4,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-222428": {
+     "n": 4,
+     "slots": [
+      462205108
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "AicQr2zCWBLiBwt2r6o7iTemmtyE7q5pTKyuuupbXEQA": {
+   "name": "AicQr2zC…",
+   "n_total": 7,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-222824": {
+     "n": 7,
+     "slots": [
+      462205871,
+      462205940
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "6TkKqq15wXjqEjNg9zqTKADwuVATR9dW3rkNnsYme1ea": {
+   "name": "6TkKqq15…",
+   "n_total": 1,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-222824": {
+     "n": 1,
+     "slots": [
+      462205872
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "5EhGYUyQNrxgUbuYF4vbL2SZDT6RMfhq3yjeyevvULeC": {
+   "name": "5EhGYUyQ…",
+   "n_total": 4,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-222824": {
+     "n": 4,
+     "slots": [
+      462205888,
+      462205889
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "gVALrRd3xq4D62KJNGDCpMMGz976w2x1Vo79mSNn4bh": {
+   "name": "gVALrRd3…",
+   "n_total": 4,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-222824": {
+     "n": 4,
+     "slots": [
+      462205905
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "9rkJMARqK6VBkcxGfKBAwnA44gPAfGxPbPsfsggFNDSQ": {
+   "name": "9rkJMARq…",
+   "n_total": 2,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-222824": {
+     "n": 2,
+     "slots": [
+      462205922
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "BtsmiEEvnSuUnKxqXj2PZRYpPJAc7C34mGz8gtJ1DAaH": {
+   "name": "BtsmiEEv…",
+   "n_total": 1,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-224116": {
+     "n": 1,
+     "slots": [
+      462212128
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "CVvaeDPR2o7P1eawG5c9TPFLzSXAewwPovPmREaEL4Cm": {
+   "name": "CVvaeDPR…",
+   "n_total": 3,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-224116": {
+     "n": 3,
+     "slots": [
+      462212126,
+      462212127
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "ExCHWgfeJyKRzpfryiQn4W6aYaWhbSAEnsoUnBGNqjWD": {
+   "name": "ExCHWgfe…",
+   "n_total": 4,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-224116": {
+     "n": 4,
+     "slots": [
+      462212145,
+      462212147
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "GvfaiJUhNCRZGVGumsEF1eHDb8JpAeFAyHSrTifyhrbt": {
+   "name": "GvfaiJUh…",
+   "n_total": 4,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-224116": {
+     "n": 4,
+     "slots": [
+      462212182,
+      462212183
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "GZ4U21pYmFkCk6ZNTHRzfVEZZXauyZLKDmuuuKGwvp5H": {
+   "name": "GZ4U21pY…",
+   "n_total": 4,
+   "version": "26.10.4",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-225400": {
+     "n": 4,
+     "slots": [
+      462214854
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "6WgdYhhGE53WrZ7ywJA15hBVkw7CRbQ8yDBBTwmBtAHN": {
+   "name": "6WgdYhhG…",
+   "n_total": 2,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-225400": {
+     "n": 2,
+     "slots": [
+      462214871
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk": {
+   "name": "Figment",
+   "n_total": 2,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-225400": {
+     "n": 2,
+     "slots": [
+      462214872
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "gUvo3g5LfH4Pd8qnG7T6MPEFa5bPr8LhDdxDahwYqis": {
+   "name": "gUvo3g5L…",
+   "n_total": 2,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-225400": {
+     "n": 2,
+     "slots": [
+      462214908
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "CZanBzZHFzrGY5qKzaX3CNhJ5smHEMTWFFnoeUi4J6dr": {
+   "name": "CZanBzZH…",
+   "n_total": 4,
+   "version": "26.10.4",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-225400": {
+     "n": 4,
+     "slots": [
+      462214926
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   }
+  },
+  "722RdWmHC5TGXBjTejzNjbc8xEiduVDLqZvoUGz6Xzbp": {
+   "name": "722RdWmH…",
+   "n_total": 1,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-230435": {
+     "n": 1,
+     "slots": [
+      462216051
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   },
+   "c_pairs": {
+    "pairs": 1,
+    "first_sent_won": 1
+   }
+  },
+  "5ZqveVffQPiUbkjBg4KD9kib1MKHLqiFno4ke9jSq9qk": {
+   "name": "5ZqveVff…",
+   "n_total": 1,
+   "version": "4.3.2",
+   "registry_is_jito": true,
+   "runs": {
+    "20261027-230435": {
+     "n": 1,
+     "slots": [
+      462216057
+     ],
+     "rho_send_records": [],
+     "rho_sendA_records": [],
+     "rho_fee_records": []
+    }
+   },
+   "c_pairs": {
+    "pairs": 1,
+    "first_sent_won": 1
+   }
+  }
+ },
+ "families": {
+  "26.10.4|JITO": {
+   "leaders": 3,
+   "txs": 71,
+   "fee_rho": {
+    "k": 4,
+    "negative": 3,
+    "mean": -0.3541,
+    "sign_p": 0.3125
+   },
+   "sendA_rho": {
+    "k": 1,
+    "mean": 0.1579
+   },
+   "send_mixed_descriptive": {
+    "k": 4,
+    "mean": -0.239
+   }
+  },
+  "4.3.2|JITO": {
+   "leaders": 17,
+   "txs": 268,
+   "fee_rho": {
+    "k": 11,
+    "negative": 8,
+    "mean": -0.4308,
+    "sign_p": 0.1133
+   },
+   "sendA_rho": {
+    "k": 8,
+    "mean": 0.1626
+   },
+   "send_mixed_descriptive": {
+    "k": 11,
+    "mean": -0.2
+   }
+  },
+  "POOLED": {
+   "fee_rho": {
+    "k": 15,
+    "negative": 11,
+    "mean": -0.4104,
+    "sign_p": 0.0592
+   }
+  }
+ }
+}

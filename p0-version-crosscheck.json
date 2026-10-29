@@ -1,0 +1,83 @@
+{
+ "date": "2026-10-26",
+ "rpc": "api.mainnet-beta.solana.com (public)",
+ "method": "getVoteAccounts -> nodePubkey -> getClusterNodes version",
+ "agree": 8,
+ "disagree": 0,
+ "not_in_gossip": 0,
+ "targets": [
+  {
+   "pubkey": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+   "name": "Figment",
+   "node_pubkey": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+   "stakewiz_family": "agave-4.3.2|JITO|ver=4.3.2",
+   "gossip_version": "4.3.2",
+   "feature_set": 3383571666,
+   "crosscheck": "AGREE"
+  },
+  {
+   "pubkey": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+   "name": "Helius",
+   "node_pubkey": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+   "stakewiz_family": "agave-4.3.2|JITO|ver=4.3.2",
+   "gossip_version": "4.3.2",
+   "feature_set": 3383571666,
+   "crosscheck": "AGREE"
+  },
+  {
+   "pubkey": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+   "name": "Jupiter",
+   "node_pubkey": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+   "stakewiz_family": "FD-date-version|JITO|ver=26.10.4",
+   "gossip_version": "26.10.4",
+   "feature_set": 1766517360,
+   "crosscheck": "AGREE"
+  },
+  {
+   "pubkey": "EvnRmnMrd69kFdbLMxWkTn1icZ7DCceRhvmb2SJXqDo4",
+   "name": "Everstake",
+   "node_pubkey": "EvnRmnMrd69kFdbLMxWkTn1icZ7DCceRhvmb2SJXqDo4",
+   "stakewiz_family": "FD-date-version|JITO|ver=26.10.4",
+   "gossip_version": "26.10.4",
+   "feature_set": 1766517360,
+   "crosscheck": "AGREE"
+  },
+  {
+   "pubkey": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+   "name": "anon-7QQGNm3p",
+   "node_pubkey": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+   "stakewiz_family": "agave-4.3.2|TPU|ver=4.3.2",
+   "gossip_version": "4.3.2",
+   "feature_set": 3383571666,
+   "crosscheck": "AGREE"
+  },
+  {
+   "pubkey": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+   "name": "anon-5Us18hLZ",
+   "node_pubkey": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+   "stakewiz_family": "agave-4.3.2|TPU|ver=4.3.2",
+   "gossip_version": "4.3.2",
+   "feature_set": 3383571666,
+   "crosscheck": "AGREE"
+  },
+  {
+   "pubkey": "pebb1eQXvcuQfXkeyYjdoBVufKHwdKGL3G37GUts8Db",
+   "name": "Pebble",
+   "node_pubkey": "pebb1eQXvcuQfXkeyYjdoBVufKHwdKGL3G37GUts8Db",
+   "stakewiz_family": "FD-date-version|TPU|ver=26.10.4",
+   "gossip_version": "26.10.4",
+   "feature_set": 1766517360,
+   "crosscheck": "AGREE"
+  },
+  {
+   "pubkey": "sce3TfT81rxYYcdbP1kBFMcTK3ZBc8hvHVeXD6WLSzE",
+   "name": "anon-sce3TfT8",
+   "node_pubkey": "sce3TfT81rxYYcdbP1kBFMcTK3ZBc8hvHVeXD6WLSzE",
+   "stakewiz_family": "agave-4.5.0-alpha|TPU|ver=4.5.0-alpha.2",
+   "gossip_version": "4.5.0-alpha.2",
+   "feature_set": 3777538720,
+   "crosscheck": "AGREE"
+  }
+ ],
+ "note": "gossip version = node self-report observed by public RPC; independent of StakeWiz infrastructure but same underlying self-reporting. is_jito remains single-source (StakeWiz) \u2014 Jito endpoints DNS-blocked from this machine."
+}
